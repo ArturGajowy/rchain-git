@@ -1,0 +1,8 @@
+1144203eb9f4b8f0555c4828b99a0585d0193357 e4a0f9298ba266fbea94ddb5330ea56de801d787 Artur Gajowy <artur.gajowy@gmail.com> 1536573543 +0200	rebase -i (finish): refs/heads/rho_parse onto 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829
+e4a0f9298ba266fbea94ddb5330ea56de801d787 6f93d87b52baf9b3488cfab0df04b9e525a4b0d9 Artur Gajowy <artur.gajowy@gmail.com> 1536670347 +0200	rebase -i (finish): refs/heads/rho_parse onto f77881068e77b947e6be6b09accae6f5378a60a6
+6f93d87b52baf9b3488cfab0df04b9e525a4b0d9 f81105edc7fcd66027e4ec6916b614c105642a74 Artur Gajowy <artur.gajowy@gmail.com> 1536776286 +0200	rebase -i (finish): refs/heads/rho_parse onto 34a360b0f4afcd77e15357d22934f68c4b206270
+f81105edc7fcd66027e4ec6916b614c105642a74 a702fad1f14561224ac19f032d749e0265d74811 Artur Gajowy <artur.gajowy@gmail.com> 1538392363 +0200	rebase -i (finish): refs/heads/rho_parse onto f905d77d99706e104c647a69bf2828fd9deec297
+a702fad1f14561224ac19f032d749e0265d74811 0525e183bde9b89fa855c44f9407b569665e80f6 Artur Gajowy <artur.gajowy@gmail.com> 1538548245 +0200	rebase -i (finish): refs/heads/rho_parse onto 24e1a277de0e30e499fa22e1e0e67698cbeda264
+0525e183bde9b89fa855c44f9407b569665e80f6 7ffa4e99a36acf90c32cae9b049e31f8b0684e64 Artur Gajowy <artur.gajowy@gmail.com> 1538549155 +0200	commit: Simplify `Chargable`'s implicit instances
+7ffa4e99a36acf90c32cae9b049e31f8b0684e64 0525e183bde9b89fa855c44f9407b569665e80f6 Artur Gajowy <artur.gajowy@gmail.com> 1538549382 +0200	reset: moving to HEAD^
+0525e183bde9b89fa855c44f9407b569665e80f6 60c3706c4067414b9a9e7fd07f8f3927b28a0283 Artur Gajowy <artur.gajowy@gmail.com> 1538564829 +0200	rebase -i (finish): refs/heads/rho_parse onto 285a74d815fbc7199f4c24c422ed5fbf05fdd29f

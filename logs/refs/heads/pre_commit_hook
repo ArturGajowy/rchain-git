@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 f5e560916d9c8e33c69a575b9a4b8ac3cc1c7e24 Artur Gajowy <artur.gajowy@gmail.com> 1537856496 +0200	branch: Created from HEAD
+f5e560916d9c8e33c69a575b9a4b8ac3cc1c7e24 8fe44a33036876535b50075bd5152c96d043683b Artur Gajowy <artur.gajowy@gmail.com> 1537856539 +0200	commit: Add scalafmt pre-commit hook
+8fe44a33036876535b50075bd5152c96d043683b e58a23abf384faf9914531c9bd788e12ff31958e Artur Gajowy <artur.gajowy@gmail.com> 1537856623 +0200	rebase -i (finish): refs/heads/pre_commit_hook onto ad9477b2bdfa1c65d25cda42f8ae692da2949f48
+e58a23abf384faf9914531c9bd788e12ff31958e c25cd6864c15721b92cc06c49dd6f21bafc0a104 Artur Gajowy <artur.gajowy@gmail.com> 1537856668 +0200	commit (amend): Add scalafmt pre-commit hook
+c25cd6864c15721b92cc06c49dd6f21bafc0a104 04089d865e20e15cdb7401b6ee7f14ea86070014 Artur Gajowy <artur.gajowy@gmail.com> 1537856815 +0200	commit (amend): Add scalafmt pre-commit hook
+04089d865e20e15cdb7401b6ee7f14ea86070014 5deb09b11976378789a678b2a19f9fd189d8d9e0 Artur Gajowy <artur.gajowy@gmail.com> 1537857333 +0200	commit (amend): Add scalafmt pre-commit hook
+5deb09b11976378789a678b2a19f9fd189d8d9e0 ad9477b2bdfa1c65d25cda42f8ae692da2949f48 Artur Gajowy <artur.gajowy@gmail.com> 1537857388 +0200	reset: moving to HEAD^
+ad9477b2bdfa1c65d25cda42f8ae692da2949f48 cac09cb392f1a2169bf92e442f05c69cba67e5b4 Artur Gajowy <artur.gajowy@gmail.com> 1537857397 +0200	commit: Add scalafmt pre-commit hook
+cac09cb392f1a2169bf92e442f05c69cba67e5b4 a5dd5a06c6a513b40d62d674d2dfe6b3e0606d04 Artur Gajowy <artur.gajowy@gmail.com> 1538392295 +0200	rebase -i (finish): refs/heads/pre_commit_hook onto f905d77d99706e104c647a69bf2828fd9deec297
+a5dd5a06c6a513b40d62d674d2dfe6b3e0606d04 80c52b144eddf83658b86abe385b9bbea08437be Artur Gajowy <artur.gajowy@gmail.com> 1538548234 +0200	rebase -i (finish): refs/heads/pre_commit_hook onto 24e1a277de0e30e499fa22e1e0e67698cbeda264
+80c52b144eddf83658b86abe385b9bbea08437be c20d8dcbc907ccc0ad78edca2791f08198fe7a13 Artur Gajowy <artur.gajowy@gmail.com> 1538564817 +0200	rebase -i (finish): refs/heads/pre_commit_hook onto 285a74d815fbc7199f4c24c422ed5fbf05fdd29f

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 8aa64010e2c3c01c803d739810ea7a3fdc7b8c14 Artur Gajowy <artur.gajowy@gmail.com> 1537827315 +0200	fetch upstream --progress --prune: storing head
+8aa64010e2c3c01c803d739810ea7a3fdc7b8c14 cd36d9a84d29937fbbfdb5d1638bf2ec7194c4d4 Artur Gajowy <artur.gajowy@gmail.com> 1537908255 +0200	fetch upstream --progress --prune: fast-forward
+cd36d9a84d29937fbbfdb5d1638bf2ec7194c4d4 9413dcc93cb921ef9910208d3dd4872f3aa26ed9 Artur Gajowy <artur.gajowy@gmail.com> 1538045571 +0200	fetch upstream --progress --prune: fast-forward
+9413dcc93cb921ef9910208d3dd4872f3aa26ed9 c289c6a72330f2213ebec53429614dd22778444f Artur Gajowy <artur.gajowy@gmail.com> 1538159281 +0200	fetch upstream --progress --prune: forced-update

@@ -1,0 +1,55 @@
+# pack-refs with: peeled fully-peeled 
+1144203eb9f4b8f0555c4828b99a0585d0193357 refs/heads/rho_parse
+d148d106e969c41f8c7b4a80263b3cf11a6143e4 refs/remotes/origin/KellyatPyrofex-patch-1
+849f6f98b094c4fd22a43ac113d1afee2f1ac472 refs/remotes/origin/RHOL-689-bigger-ints
+18e1ac02539fc5e8588269b79f8cc9d8f2e29af6 refs/remotes/origin/Release-RNode-v0.4
+1459a3db804a23c9a3c7dcf729e4cba7a7c811de refs/remotes/origin/Updating_CONTRIBUTING.md
+63a0785d1542a7f4419e7413c354df53ec4db06b refs/remotes/origin/add_coursier
+62e3c24be496098410dd3d462485a56557599d63 refs/remotes/origin/core-720-heartbeat
+f4014f203a4efcfcaa88b2bc413e21fb051d858c refs/remotes/origin/dev
+c78a39f49fb07c3740cc313139b94ded9bbeabe2 refs/remotes/origin/differentialderek-patch-1
+c62df7f86b7cbc646e4576a761c404b403098f7b refs/remotes/origin/differentialderek-patch-2
+49bc78c3c6aa0eb1e8b530ca9d7427054025580a refs/remotes/origin/gh-pages
+78c58f81c2132dcef7289eebe3a3d92b65d2e1af refs/remotes/origin/hotfix-0.4.2
+a5f4abc189fdae60d9b90674aa6f4048f96ca48b refs/remotes/origin/master
+4bca7e2532c02de68b2feba83c96d4c74aadb193 refs/remotes/origin/mbm_memo
+9e3ac1b722069f2f26007cd90ffb134ee01b4f68 refs/remotes/origin/revert-377-RBLSTRINGPRIMc
+12b359de6feebd191eef1c64ac3a6c5f343336b2 refs/remotes/origin/roscala-multithreading
+105b0323ce8c6f43ce1917bbbc15638c1926b542 refs/remotes/origin/unresponsive-throttle
+8e5cc1fddd6496d70968642409d73dfa51f4026a refs/remotes/origin/update_readme
+404742ae1e0ae623a1e59b0fbb2f05369fd6bf52 refs/remotes/origin/use_sortable
+6feb5fcd9f9acc494c7e779e9d66f80b912d09ec refs/remotes/upstream/KellyatPyrofex-update-sbt-build-version-to-0.6.2
+18e1ac02539fc5e8588269b79f8cc9d8f2e29af6 refs/remotes/upstream/Release-RNode-v0.4
+3a17da447ca8c97f5471e02fa8ef92a62b67d15b refs/remotes/upstream/core-1051_52
+62e3c24be496098410dd3d462485a56557599d63 refs/remotes/upstream/core-720-heartbeat
+4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 refs/remotes/upstream/dev
+78c58f81c2132dcef7289eebe3a3d92b65d2e1af refs/remotes/upstream/hotfix-0.4.2
+b75c0118f0ac71b6364eb69cd49f0e788dac55c2 refs/remotes/upstream/master
+78a9d7194468c0815a39dd14485d71b3b7a4e0bc refs/remotes/upstream/release-rnode-v0.6
+5d9ad995d695d6f26385fbf76cf77325df72d374 refs/remotes/upstream/revert-1369-dev-kent-prevent-simulatenous-deploys
+12b359de6feebd191eef1c64ac3a6c5f343336b2 refs/remotes/upstream/roscala-multithreading
+5ae965802a5fbbc209e804de5b815145fa76241b refs/stash
+bd698268a6dcc139e91cb656c4ebdf9547ccbc73 refs/tags/rholang-0.1
+^e015da4f16938eeb73b9272c5c6c34eed26f3358
+4168f31ee35894ddabe2d0620ad442ab5e7eab9b refs/tags/v0.1
+78743c3017a4e0311b0b5af8921e397c24241570 refs/tags/v0.1.1
+a9bc3893094430cd496cf7fead688c845a5af5f6 refs/tags/v0.1.2
+176a1e41a4ef2e403d21d98c576c9f8b87ea1ff5 refs/tags/v0.1.3
+4ebf371129f66b9d8aaacee837ff07c2f1853b12 refs/tags/v0.2.1
+^b23ab1c290aeb113b078db9c8d52a1124402c69f
+d1b702e1cc51118f9046f34b8026dee145d9eba4 refs/tags/v0.3.1
+^3d77d1344f5ff569ff552648c1e79aca6988cda1
+a22f1be5ac8cba319300d5a148eea0e8eb19ecb9 refs/tags/v0.4.1
+^4461c4cdd7ebfdee48595f8c441b752e17158b0e
+e8b9c0a0bc76b3995dc2b9d53d7c007bf2fc416f refs/tags/v0.5.1
+^bb85b9beb564d0b76d529e33f1f7f4b8e9217ca1
+0364b63eefa31516752834997136901b7f7d77a5 refs/tags/v0.5.2
+^d7d7e9a4b65806bcc2ae4589a4050da0dbe558d9
+33d505928514416adad06b60802f86dce0c9d6ad refs/tags/v0.5.3
+^a85e6003887dc0a0b8990acb6b76f99c479023ed
+26adc91223270d94c06d580068b5a860b08c36fc refs/tags/v0.6.1
+^acde1c1a2bc983838a38118653905b0c85ab9c58
+f8a7ddb95506c15332b4fed9cc05839a18ab1fba refs/tags/v0.6.2
+^f45aff41d6f657933be305a9cd8f47a9f7fe65b5
+311aac0e5c208ca8e8bcdd72af34eeb35ff494f9 refs/tags/v0.6.3
+^17e150b83e4c448d051f92e6a48a877b60f0acbb

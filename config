@@ -1,0 +1,44 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:ArturGajowy/rchain.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "upstream"]
+	url = git@github.com:rchain/rchain.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[branch "rho_parse"]
+	remote = origin
+	merge = refs/heads/rho_parse
+[remote "kyle"]
+	url = https://github.com/guardbotmk3/rchain.git
+	fetch = +refs/heads/*:refs/remotes/kyle/*
+[remote "abner"]
+	url = https://github.com/AbnerZheng/rchain
+	fetch = +refs/heads/*:refs/remotes/abner/*
+[branch "dev"]
+	remote = upstream
+	merge = refs/heads/dev
+[branch "local_changes"]
+	remote = origin
+	merge = refs/heads/local_changes
+[branch "staksafe_hashcode"]
+	remote = origin
+	merge = refs/heads/staksafe_hashcode
+[branch "pre_commit_hook"]
+	remote = origin
+	merge = refs/heads/pre_commit_hook
+[branch "recursion_schemes"]
+	remote = origin
+	merge = refs/heads/recursion_schemes
+[branch "gen_test_expr_disable"]
+	remote = origin
+	merge = refs/heads/gen_test_expr_disable
+[remote "kent"]
+	url = git@github.com:KentShikama/rchain.git
+	fetch = +refs/heads/*:refs/remotes/kent/*
+[branch "dev-kent-runtime-compile-rholang"]
+	remote = kent
+	merge = refs/heads/dev-kent-runtime-compile-rholang

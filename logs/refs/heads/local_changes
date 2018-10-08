@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 60b917cc1823e8ddc458a4498da2e863d6d40f39 Artur Gajowy <artur.gajowy@gmail.com> 1537955758 +0200	branch: Created from 60b917cc1823e8ddc458a4498da2e863d6d40f39
+60b917cc1823e8ddc458a4498da2e863d6d40f39 b8648d93be2ec81546735111c1c7e980b4058ac2 Artur Gajowy <artur.gajowy@gmail.com> 1537955795 +0200	commit: WIP turn off scalafmt because git hook
+b8648d93be2ec81546735111c1c7e980b4058ac2 881c26fef3959a72150b59fbb68cfaa47a92dab4 Artur Gajowy <artur.gajowy@gmail.com> 1537955823 +0200	commit: Add scalafmt pre-commit hook
+881c26fef3959a72150b59fbb68cfaa47a92dab4 adc3836d4f23ccb843ae35cbb143bb24272933c4 Artur Gajowy <artur.gajowy@gmail.com> 1537955892 +0200	rebase -i (finish): refs/heads/local_changes onto e500aaf5f762a37f4dfcc7c612e866c3e7e3b9e4
+adc3836d4f23ccb843ae35cbb143bb24272933c4 6ee18066a0e0feb8a59c11cbb4cd4ad77ee2592e Artur Gajowy <artur.gajowy@gmail.com> 1537955921 +0200	rebase -i (finish): refs/heads/local_changes onto 80f2505dee93178917fbfab8a459b0be66ac801b
+6ee18066a0e0feb8a59c11cbb4cd4ad77ee2592e c0a778226bc6514b364613403f5f519627e75381 Artur Gajowy <artur.gajowy@gmail.com> 1538390962 +0200	reset: moving to c0a7782
+c0a778226bc6514b364613403f5f519627e75381 0a260aee914f3af0f4d98cf8938183eca451978c Artur Gajowy <artur.gajowy@gmail.com> 1538391554 +0200	reset: moving to 0a260ae
+0a260aee914f3af0f4d98cf8938183eca451978c 13e55ecf7fb348943e0aa121449e6274a6060bfc Artur Gajowy <artur.gajowy@gmail.com> 1538391897 +0200	reset: moving to 13e55ec
+13e55ecf7fb348943e0aa121449e6274a6060bfc 9401f72ca82e4e35c120a3b3010b3bba295d300c Artur Gajowy <artur.gajowy@gmail.com> 1538547993 +0200	rebase -i (finish): refs/heads/local_changes onto 24e1a277de0e30e499fa22e1e0e67698cbeda264
+9401f72ca82e4e35c120a3b3010b3bba295d300c 0238d39659a98e38f0c5ebf9969f117f9af0b5a8 Artur Gajowy <artur.gajowy@gmail.com> 1538555293 +0200	reset: moving to 0238d39
+0238d39659a98e38f0c5ebf9969f117f9af0b5a8 0ac2de2480bec425e42eb575be19bfc772465892 Artur Gajowy <artur.gajowy@gmail.com> 1538556271 +0200	rebase -i (finish): refs/heads/local_changes onto 50260a5ee83c07849f07d44f8af4865b8ee481c9
+0ac2de2480bec425e42eb575be19bfc772465892 bf2cb51b084894fbb0d81d7bcba0620b0819d400 Artur Gajowy <artur.gajowy@gmail.com> 1538564601 +0200	rebase -i (finish): refs/heads/local_changes onto ecabb33bf4a9714cb4a2134d101608a27644ceae
+bf2cb51b084894fbb0d81d7bcba0620b0819d400 2177d5fe2308bd16f6d5f0ed66713c116a7046fc Artur Gajowy <artur.gajowy@gmail.com> 1538564769 +0200	rebase -i (finish): refs/heads/local_changes onto 285a74d815fbc7199f4c24c422ed5fbf05fdd29f

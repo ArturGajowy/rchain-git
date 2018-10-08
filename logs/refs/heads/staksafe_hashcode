@@ -1,0 +1,105 @@
+0000000000000000000000000000000000000000 2bb230210f92632e79fc7f745d66735064cfc762 Artur Gajowy <artur.gajowy@gmail.com> 1537954893 +0200	branch: Created from HEAD
+2bb230210f92632e79fc7f745d66735064cfc762 3920143bc44bc7a235d580b2c51cc24f5cb029dd Artur Gajowy <artur.gajowy@gmail.com> 1537955950 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 6ee18066a0e0feb8a59c11cbb4cd4ad77ee2592e
+3920143bc44bc7a235d580b2c51cc24f5cb029dd 93a5fc390b0877ddafb8d589bce6ad6b37d1bd57 Artur Gajowy <artur.gajowy@gmail.com> 1538045467 +0200	commit: WIP
+93a5fc390b0877ddafb8d589bce6ad6b37d1bd57 3920143bc44bc7a235d580b2c51cc24f5cb029dd Artur Gajowy <artur.gajowy@gmail.com> 1538049864 +0200	reset: moving to HEAD^
+3920143bc44bc7a235d580b2c51cc24f5cb029dd 02e666c17c709d2ee3d38cd1564922bff572677d Artur Gajowy <artur.gajowy@gmail.com> 1538050029 +0200	commit: WIP Add StacksafeScalapbGenerator
+02e666c17c709d2ee3d38cd1564922bff572677d 53d204d7e8e3200266090d0cfd0e1c69e1815013 Artur Gajowy <artur.gajowy@gmail.com> 1538050121 +0200	commit: fixup! Add magnolia
+53d204d7e8e3200266090d0cfd0e1c69e1815013 552ea01df5c4807ea9c3232811908e628c88a0f9 Artur Gajowy <artur.gajowy@gmail.com> 1538050134 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 6ee18066a0e0feb8a59c11cbb4cd4ad77ee2592e
+552ea01df5c4807ea9c3232811908e628c88a0f9 91550c7cfcd6602715d5a0e06c02a6c0fa4abbd1 Artur Gajowy <artur.gajowy@gmail.com> 1538051926 +0200	commit (amend): WIP Add StacksafeScalapbGenerator
+91550c7cfcd6602715d5a0e06c02a6c0fa4abbd1 f10ed85fd2308397608642fdb5fd92bd02ba3110 Artur Gajowy <artur.gajowy@gmail.com> 1538052044 +0200	commit: FIXME break
+f10ed85fd2308397608642fdb5fd92bd02ba3110 628545909f2dc2c03ce79c35e9b9196ad0409ada Artur Gajowy <artur.gajowy@gmail.com> 1538052073 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 91550c7cfcd6602715d5a0e06c02a6c0fa4abbd1
+628545909f2dc2c03ce79c35e9b9196ad0409ada ad004ad7b13bc2d727f89cc9a2ecd6911bc8efc1 Artur Gajowy <artur.gajowy@gmail.com> 1538059289 +0200	commit: WIP HashM exapmle
+ad004ad7b13bc2d727f89cc9a2ecd6911bc8efc1 831234864158fb284b4cb59da04dd762c661211b Artur Gajowy <artur.gajowy@gmail.com> 1538086040 +0200	commit: FIXME break
+831234864158fb284b4cb59da04dd762c661211b 24154de5abe9d5c85f2208400a16411e1b2d42a1 Artur Gajowy <artur.gajowy@gmail.com> 1538086148 +0200	commit: Include connectiveUsed in equals/hashCode of ParMap and ParSet
+24154de5abe9d5c85f2208400a16411e1b2d42a1 cc8408b302a6d42ed929fb703fcae2a0499fe2f6 Artur Gajowy <artur.gajowy@gmail.com> 1538086268 +0200	commit: fixup! Add magnolia
+cc8408b302a6d42ed929fb703fcae2a0499fe2f6 f227d2b4e332d65a3aa8b1eef7664b42e7ef030b Artur Gajowy <artur.gajowy@gmail.com> 1538093034 +0200	commit: fixup! WIP HashM exapmle
+f227d2b4e332d65a3aa8b1eef7664b42e7ef030b 847bcbd1ff5d075bd0c8819d61a1d837fc820ff0 Artur Gajowy <artur.gajowy@gmail.com> 1538093074 +0200	commit: fixup! WIP Add StacksafeScalapbGenerator
+847bcbd1ff5d075bd0c8819d61a1d837fc820ff0 aae3472847f674ee158a25038e3beadf696504b9 Artur Gajowy <artur.gajowy@gmail.com> 1538093125 +0200	commit: FIXME move the PrettyPrinter to models - MOVE TESTS TOO!!
+aae3472847f674ee158a25038e3beadf696504b9 0bb1a28e379980aed2bc1da28c19fc198863867e Artur Gajowy <artur.gajowy@gmail.com> 1538093160 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto ad004ad7b13bc2d727f89cc9a2ecd6911bc8efc1
+0bb1a28e379980aed2bc1da28c19fc198863867e aca06e5edaedcb05cc258b0bdffc7140f7419d13 Artur Gajowy <artur.gajowy@gmail.com> 1538093189 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 01b24592b9e8f90c97b715ad0b4fa66181feebed
+aca06e5edaedcb05cc258b0bdffc7140f7419d13 2e1969b6a14cb248235128d6921baa16730e87b5 Artur Gajowy <artur.gajowy@gmail.com> 1538119282 +0200	commit: Make the "impossible" error message reveal more detail
+2e1969b6a14cb248235128d6921baa16730e87b5 0dfedb337bc215536ca3ceba7f48b3ea7bd564ed Artur Gajowy <artur.gajowy@gmail.com> 1538120840 +0200	commit: Make the "impossible" error message reveal more detail
+0dfedb337bc215536ca3ceba7f48b3ea7bd564ed 6167f78d3e3c755e441bdd528c88aa68534ff557 Artur Gajowy <artur.gajowy@gmail.com> 1538120883 +0200	commit: Strenghten serialization roundtrip tests
+6167f78d3e3c755e441bdd528c88aa68534ff557 bffd833c51705e3863691e295f085429eaeeaa8f Artur Gajowy <artur.gajowy@gmail.com> 1538121442 +0200	commit (amend): Strenghten serialization roundtrip tests
+bffd833c51705e3863691e295f085429eaeeaa8f 26429041d437b18c5e61b8defed315e1ab8370fb Artur Gajowy <artur.gajowy@gmail.com> 1538121731 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 2e1969b6a14cb248235128d6921baa16730e87b5
+26429041d437b18c5e61b8defed315e1ab8370fb 75fcec2797005261b080a376896a5b896f4947fb Artur Gajowy <artur.gajowy@gmail.com> 1538121795 +0200	commit: WIP Add HashM typeclass for stacksafe hashCode
+75fcec2797005261b080a376896a5b896f4947fb e0b1830e70b15412a45b4288a63747785c3420ea Artur Gajowy <artur.gajowy@gmail.com> 1538125200 +0200	cherry-pick: Include connectiveUsed in equals/hashCode of ParMap and ParSet
+e0b1830e70b15412a45b4288a63747785c3420ea 3244d3dac77fc5ce2bc8a6be209c9a858f66a5a6 Artur Gajowy <artur.gajowy@gmail.com> 1538125316 +0200	commit (amend): Include connectiveUsed in equals/hashCode of ParMap and ParSet
+3244d3dac77fc5ce2bc8a6be209c9a858f66a5a6 b20a7d3a2045b1970c6cba314a16d83d83b479a7 Artur Gajowy <artur.gajowy@gmail.com> 1538133496 +0200	commit: fixup! Strenghten serialization roundtrip tests
+b20a7d3a2045b1970c6cba314a16d83d83b479a7 a5fdfb2e94cdf9641b6a7b2bf3d60755f4043949 Artur Gajowy <artur.gajowy@gmail.com> 1538135010 +0200	commit: Add Arbitrary instances for all A that have a Serializable[A] instance
+a5fdfb2e94cdf9641b6a7b2bf3d60755f4043949 27f38314600524975e52fbd6cd4cb673bb8ba06d Artur Gajowy <artur.gajowy@gmail.com> 1538135047 +0200	commit (amend): Patch a corner case in GroundSortMatcher
+27f38314600524975e52fbd6cd4cb673bb8ba06d dd4b4e21dc92b93eb3c12270f439f7625e8af9f2 Artur Gajowy <artur.gajowy@gmail.com> 1538135217 +0200	commit: Add Arbitrary instances for most of our AST variants
+dd4b4e21dc92b93eb3c12270f439f7625e8af9f2 c5186735f79c5bc547341c38d5baa621b1db60f3 Artur Gajowy <artur.gajowy@gmail.com> 1538141228 +0200	commit: WIP FIXME Add custom stacksafe hashCode to proto-generated AST classes
+c5186735f79c5bc547341c38d5baa621b1db60f3 e7f2e33d670f762ba27e62fa9351e18e0f0393e0 Artur Gajowy <artur.gajowy@gmail.com> 1538141350 +0200	commit: fixup! WIP Add HashM typeclass for stacksafe hashCode
+e7f2e33d670f762ba27e62fa9351e18e0f0393e0 9e39edfe5ed297f324d057a78d7ed990ee82d521 Artur Gajowy <artur.gajowy@gmail.com> 1538141868 +0200	commit: Bump Scala version to 2.12.7
+9e39edfe5ed297f324d057a78d7ed990ee82d521 57e8ecd50bb56dee9a51f86cb6036eab726fa33a Artur Gajowy <artur.gajowy@gmail.com> 1538390826 +0200	commit: WIP Recursion schemes for proto (de)serialization
+57e8ecd50bb56dee9a51f86cb6036eab726fa33a 9e16da5db72183deb3c5f521840a879cbb68bb9f Artur Gajowy <artur.gajowy@gmail.com> 1538390863 +0200	commit: fixup! WIP Add HashM typeclass for stacksafe hashCode
+9e16da5db72183deb3c5f521840a879cbb68bb9f 1ba156519e2562a8ec2dcbb246c9eedc810761e2 Artur Gajowy <artur.gajowy@gmail.com> 1538390892 +0200	commit: WIP FIXME Add custom stacksafe hashCode to proto-generated AST classes
+1ba156519e2562a8ec2dcbb246c9eedc810761e2 fbdd14c6203b1b57fdc7f2b3c1eca0b043f1b6eb Artur Gajowy <artur.gajowy@gmail.com> 1538390917 +0200	commit: WIP StackSafety spec mods
+fbdd14c6203b1b57fdc7f2b3c1eca0b043f1b6eb 5fdc5eba0b773f5942aa62c625fdaa0fae61aa6d Artur Gajowy <artur.gajowy@gmail.com> 1538391181 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto c0a778226bc6514b364613403f5f519627e75381
+5fdc5eba0b773f5942aa62c625fdaa0fae61aa6d 9000507cbdab94dda808b9446862a7ebfcdf47af Artur Gajowy <artur.gajowy@gmail.com> 1538391515 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto f905d77d99706e104c647a69bf2828fd9deec297
+9000507cbdab94dda808b9446862a7ebfcdf47af e75596aaf7a1101d3e41869bb6c2452bd1b83258 Artur Gajowy <artur.gajowy@gmail.com> 1538391859 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 74f67064e0bc9f9a7e75046d1f5495622824ddc0
+e75596aaf7a1101d3e41869bb6c2452bd1b83258 ea9f0814faea887754cf989c94f3bd626f30c615 Artur Gajowy <artur.gajowy@gmail.com> 1538392095 +0200	reset: moving to HEAD^
+ea9f0814faea887754cf989c94f3bd626f30c615 e0747f1b24f476520e4dbe5ba00a53842a024a8d Artur Gajowy <artur.gajowy@gmail.com> 1538469661 +0200	commit: WIP StackSafety spec mods
+e0747f1b24f476520e4dbe5ba00a53842a024a8d ea9de531e8a0aedd8d33b938837abe6549c3aaf5 Artur Gajowy <artur.gajowy@gmail.com> 1538469668 +0200	commit (amend): fixup! WIP Add HashM typeclass for stacksafe hashCode
+ea9de531e8a0aedd8d33b938837abe6549c3aaf5 ea9f0814faea887754cf989c94f3bd626f30c615 Artur Gajowy <artur.gajowy@gmail.com> 1538471868 +0200	reset: moving to HEAD^
+ea9f0814faea887754cf989c94f3bd626f30c615 2d4aa9928e0640571854dc2a60b28a5d2cd92625 Artur Gajowy <artur.gajowy@gmail.com> 1538471947 +0200	commit: fixup! WIP Add HashM typeclass for stacksafe hashCode
+2d4aa9928e0640571854dc2a60b28a5d2cd92625 d611ef81540578264ee68a92a87ae9af039bd217 Artur Gajowy <artur.gajowy@gmail.com> 1538496821 +0200	commit: WIP StackSafety spec mods
+d611ef81540578264ee68a92a87ae9af039bd217 e64501bc7f3ac53513f669b26528dddba2916e0e Artur Gajowy <artur.gajowy@gmail.com> 1538547847 +0200	commit: Add scalapb.compilerplugin as model's dependency
+e64501bc7f3ac53513f669b26528dddba2916e0e 9a8ada8c61bb28870c5f821af67c79ad554ddb1e Artur Gajowy <artur.gajowy@gmail.com> 1538547871 +0200	commit (amend): Add scalapb.compilerplugin as model's dependency
+9a8ada8c61bb28870c5f821af67c79ad554ddb1e 764be23c27386911e1e59abef6435404d80aa546 Artur Gajowy <artur.gajowy@gmail.com> 1538547879 +0200	commit: WIP
+764be23c27386911e1e59abef6435404d80aa546 4f3084f3d56a84b93836f12ce02880620d6f5d0e Artur Gajowy <artur.gajowy@gmail.com> 1538547887 +0200	commit (amend): WIP
+4f3084f3d56a84b93836f12ce02880620d6f5d0e a38267b46ae2db665199a65e166e5f5c37239824 Artur Gajowy <artur.gajowy@gmail.com> 1538548025 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 9401f72ca82e4e35c120a3b3010b3bba295d300c
+a38267b46ae2db665199a65e166e5f5c37239824 18ed830b71bd604785ec0e97e67a5784b49c7231 Artur Gajowy <artur.gajowy@gmail.com> 1538549399 +0200	cherry-pick: Simplify `Chargable`'s implicit instances
+18ed830b71bd604785ec0e97e67a5784b49c7231 add8d72ce7a5dbf08db87544a78ae0ecdb47ae03 Artur Gajowy <artur.gajowy@gmail.com> 1538549606 +0200	commit: fixup! WIP Add HashM typeclass for stacksafe hashCode
+add8d72ce7a5dbf08db87544a78ae0ecdb47ae03 4fb5727baf5f32f143f6448bb8bc6a757bb06972 Artur Gajowy <artur.gajowy@gmail.com> 1538550146 +0200	commit: fixup! WIP Add HashM typeclass for stacksafe hashCode
+4fb5727baf5f32f143f6448bb8bc6a757bb06972 6419b1d6f1b6ac5a4193222e29b3df624e2d7eda Artur Gajowy <artur.gajowy@gmail.com> 1538550180 +0200	commit: fixup! Strenghten serialization roundtrip tests
+6419b1d6f1b6ac5a4193222e29b3df624e2d7eda a76c05ba1fd4b29b9782faacff4a45ebfd87b657 Artur Gajowy <artur.gajowy@gmail.com> 1538551514 +0200	commit: fixup! Simplify `Chargable`'s implicit instances
+a76c05ba1fd4b29b9782faacff4a45ebfd87b657 85d3f20e3dc4b57ac847db1908933e615ed848b7 Artur Gajowy <artur.gajowy@gmail.com> 1538551683 +0200	commit: Use `.serializedSize` instead of serializing to get message storage cost
+85d3f20e3dc4b57ac847db1908933e615ed848b7 c717f1fb9a7f59a29c2b6029e0a06dbd8e5913cb Artur Gajowy <artur.gajowy@gmail.com> 1538551745 +0200	commit: Simplifiy implicits and type parameters in Costs
+c717f1fb9a7f59a29c2b6029e0a06dbd8e5913cb 63eba04917603609a0329bb9040b309b8b34d445 Artur Gajowy <artur.gajowy@gmail.com> 1538552254 +0200	commit: Use stacksafe serializedSize in Chargable and Costs
+63eba04917603609a0329bb9040b309b8b34d445 c6ce90aa24870c00a765a7ba3e349cb02c190e0e Artur Gajowy <artur.gajowy@gmail.com> 1538554016 +0200	commit: WIP
+c6ce90aa24870c00a765a7ba3e349cb02c190e0e 71b21bd6a7d0b2548701fa0f98e36de4984bf55e Artur Gajowy <artur.gajowy@gmail.com> 1538554851 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 9401f72ca82e4e35c120a3b3010b3bba295d300c
+71b21bd6a7d0b2548701fa0f98e36de4984bf55e 42cba1ec484fef26ff0f7fec6a88826f829ac1ff Artur Gajowy <artur.gajowy@gmail.com> 1538554902 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto b018b80a63e020026770096738eae37850a388c6
+42cba1ec484fef26ff0f7fec6a88826f829ac1ff f57e7684837cc125166f894ed201921a2c98c5ba Artur Gajowy <artur.gajowy@gmail.com> 1538554956 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto d130a681105ed8b67b66fa94b991ca5ad58e91bf
+f57e7684837cc125166f894ed201921a2c98c5ba 782ffbd9bb855af17c7a6fb0116c65656b8e8f98 Artur Gajowy <artur.gajowy@gmail.com> 1538555111 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 9401f72ca82e4e35c120a3b3010b3bba295d300c
+782ffbd9bb855af17c7a6fb0116c65656b8e8f98 4181c35171def6ec54879d979051b0fc47688fd8 Artur Gajowy <artur.gajowy@gmail.com> 1538555188 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto ca13bba64ccc57c5451ee86c6032fffe7ce773e0
+4181c35171def6ec54879d979051b0fc47688fd8 30c54751cd7c533030e6d4f86f30d0e7646aa915 Artur Gajowy <artur.gajowy@gmail.com> 1538555253 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 24e1a277de0e30e499fa22e1e0e67698cbeda264
+30c54751cd7c533030e6d4f86f30d0e7646aa915 9c683f35125240e10deab490acc91659c6de2b08 Artur Gajowy <artur.gajowy@gmail.com> 1538556131 +0200	rebase finished: refs/heads/staksafe_hashcode onto 50260a5ee83c07849f07d44f8af4865b8ee481c9
+9c683f35125240e10deab490acc91659c6de2b08 1a0a07fba8952c2f87bd07ba82966aec2a39de6b Artur Gajowy <artur.gajowy@gmail.com> 1538556296 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 0ac2de2480bec425e42eb575be19bfc772465892
+1a0a07fba8952c2f87bd07ba82966aec2a39de6b 4d246a4557a1263f83cb6f46e090b8475fe35138 Artur Gajowy <artur.gajowy@gmail.com> 1538560711 +0200	commit: WIP
+4d246a4557a1263f83cb6f46e090b8475fe35138 5fdb78400e76c8340c6c9945db6d125c4fc3ec0e Artur Gajowy <artur.gajowy@gmail.com> 1538564489 +0200	commit: WIP
+5fdb78400e76c8340c6c9945db6d125c4fc3ec0e 95bd356938f16acc38c0a297e482d34c4b447bc3 Artur Gajowy <artur.gajowy@gmail.com> 1538564616 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto bf2cb51b084894fbb0d81d7bcba0620b0819d400
+95bd356938f16acc38c0a297e482d34c4b447bc3 b9b435a08cb6f6b131ab6ebab298b6b69e69f3cf Artur Gajowy <artur.gajowy@gmail.com> 1538564796 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 2177d5fe2308bd16f6d5f0ed66713c116a7046fc
+b9b435a08cb6f6b131ab6ebab298b6b69e69f3cf 0f7dd9f03c4ce1f0aec73109f217d9dc26803e46 Artur Gajowy <artur.gajowy@gmail.com> 1538577230 +0200	commit: WIP
+0f7dd9f03c4ce1f0aec73109f217d9dc26803e46 a505dd223269d10ffc89ba70d32381fdfade0f7f Artur Gajowy <artur.gajowy@gmail.com> 1538577278 +0200	commit: Failing test case somewhat minimized
+a505dd223269d10ffc89ba70d32381fdfade0f7f 529ce2cfbe49542693beffcd44e7cdfa9d3acc89 Artur Gajowy <artur.gajowy@gmail.com> 1538579863 +0200	commit: Reproduction scenario
+529ce2cfbe49542693beffcd44e7cdfa9d3acc89 097742a457ed51a4237b693a8defda9e35377624 Artur Gajowy <artur.gajowy@gmail.com> 1538637275 +0200	commit: Solution found
+097742a457ed51a4237b693a8defda9e35377624 cadb770f5b539b817658bcb0d21fdea8d17fe3fb Artur Gajowy <artur.gajowy@gmail.com> 1538724478 +0200	commit: Solution
+cadb770f5b539b817658bcb0d21fdea8d17fe3fb 09c62c77b5a952f06317f9a8d7297fc938f7abea Artur Gajowy <artur.gajowy@gmail.com> 1538724991 +0200	commit: Import SortTest.sort in the test cases
+09c62c77b5a952f06317f9a8d7297fc938f7abea 6f7cd90ad117af2cdf7f0794dc97e35c1c6fdce7 Artur Gajowy <artur.gajowy@gmail.com> 1538725014 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 097742a457ed51a4237b693a8defda9e35377624
+6f7cd90ad117af2cdf7f0794dc97e35c1c6fdce7 b560f019de82c488cd2f83943228c42bb2150b23 Artur Gajowy <artur.gajowy@gmail.com> 1538725380 +0200	commit: Rename package coop.rchain.models.rholang.{sort => sorter}
+b560f019de82c488cd2f83943228c42bb2150b23 ebf232de0d85e6cfcb6dd2b0b3bea7a0a1407386 Artur Gajowy <artur.gajowy@gmail.com> 1538725474 +0200	commit (amend): Rename package coop.rchain.models.rholang.{sort => sorter}
+ebf232de0d85e6cfcb6dd2b0b3bea7a0a1407386 004f8408354300a05ea463287ce924123de38895 Artur Gajowy <artur.gajowy@gmail.com> 1538725706 +0200	commit (amend): Rename package coop.rchain.models.rholang.{sort => sorter}
+004f8408354300a05ea463287ce924123de38895 83576df0d594ff5342c40d35d2ebe18b11c287fc Artur Gajowy <artur.gajowy@gmail.com> 1538725780 +0200	commit: Group tests results in test report for SortTest.scala
+83576df0d594ff5342c40d35d2ebe18b11c287fc d0af1b7122ecd04379af3133c54af16ea1cd3e67 Artur Gajowy <artur.gajowy@gmail.com> 1538727107 +0200	commit: Fix a bug in sorter where scores of unsorted trees were used in results
+d0af1b7122ecd04379af3133c54af16ea1cd3e67 e77e4e21a9642655605449b4fd517527a628a205 Artur Gajowy <artur.gajowy@gmail.com> 1538727616 +0200	commit: Make score order consistent with field order for Par
+e77e4e21a9642655605449b4fd517527a628a205 9752731ca376d55191a4a51e7267e8cae61d0cd4 Artur Gajowy <artur.gajowy@gmail.com> 1538727844 +0200	commit: fixup! Group tests results in test report for SortTest.scala
+9752731ca376d55191a4a51e7267e8cae61d0cd4 b2d4cf40ca7356d4da319987a0136948264e7fa5 Artur Gajowy <artur.gajowy@gmail.com> 1538727866 +0200	commit: Make score order consistent with field order for Par
+b2d4cf40ca7356d4da319987a0136948264e7fa5 e5187d9052a20c7b260edb24795909928e335421 Artur Gajowy <artur.gajowy@gmail.com> 1538729496 +0200	commit: WIP
+e5187d9052a20c7b260edb24795909928e335421 90a900612e299d63ed22d64f8f8d00caa73a5ce1 Artur Gajowy <artur.gajowy@gmail.com> 1538734278 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 004f8408354300a05ea463287ce924123de38895
+90a900612e299d63ed22d64f8f8d00caa73a5ce1 e5187d9052a20c7b260edb24795909928e335421 Artur Gajowy <artur.gajowy@gmail.com> 1538734290 +0200	reset: moving to e5187d9052a20c7b260edb24795909928e335421
+e5187d9052a20c7b260edb24795909928e335421 8d4d973bea28e43bf1724a090458a96f54ea2a86 Artur Gajowy <artur.gajowy@gmail.com> 1538734482 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto ae3813456e0b2e065919e2be45d4843e9dc1c8a6
+8d4d973bea28e43bf1724a090458a96f54ea2a86 51b55d84ed59cfd985921518442c167d8f7794b4 Artur Gajowy <artur.gajowy@gmail.com> 1538734532 +0200	commit: fixup! Group tests results in test report for SortTest.scala
+51b55d84ed59cfd985921518442c167d8f7794b4 a9adadf2a779843b8c0784727bf9117df1a16faf Artur Gajowy <artur.gajowy@gmail.com> 1538734552 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 0d6f8d026c42b3ad91b26f65a4de4dc99570a8d6
+a9adadf2a779843b8c0784727bf9117df1a16faf 448f67b79a5f56c0c7f8c73664c324d7f4345704 Artur Gajowy <artur.gajowy@gmail.com> 1538737538 +0200	commit (cherry-pick): Add LazyClue wrapper for delaying assertion clues evaluation
+448f67b79a5f56c0c7f8c73664c324d7f4345704 2a443ecefe3efc3e983f2c8566f0f180077139ee Artur Gajowy <artur.gajowy@gmail.com> 1538737549 +0200	commit: Add LazyClue wrapper for delaying assertion clues evaluation
+2a443ecefe3efc3e983f2c8566f0f180077139ee 6ebd8b0d1f5ac1f9189e2ea81976f7c1c5db0a7c Artur Gajowy <artur.gajowy@gmail.com> 1538737578 +0200	commit: fixup
+6ebd8b0d1f5ac1f9189e2ea81976f7c1c5db0a7c a9adadf2a779843b8c0784727bf9117df1a16faf Artur Gajowy <artur.gajowy@gmail.com> 1538737601 +0200	reset: moving to HEAD^^^
+a9adadf2a779843b8c0784727bf9117df1a16faf cdcbbb93c2cd24c5f5f5bcb63ddc411b8d4367df Artur Gajowy <artur.gajowy@gmail.com> 1538737643 +0200	commit: Add LazyClue wrapper for delaying assertion clues evaluation
+cdcbbb93c2cd24c5f5f5bcb63ddc411b8d4367df 541191a0a05405dcd9841199b2719511cf3793c4 Artur Gajowy <artur.gajowy@gmail.com> 1538737696 +0200	commit: Add an exclusion for RhoTypesTest generative tests, and better messages
+541191a0a05405dcd9841199b2719511cf3793c4 e66e9e140a25552d29675fe42405bbad3331a340 Artur Gajowy <artur.gajowy@gmail.com> 1538737718 +0200	commit: Add magnolia dependency (for deriving typeclasses) to models module
+e66e9e140a25552d29675fe42405bbad3331a340 e59f61c1c46eab9278b98a5f11850cd063d93e69 Artur Gajowy <artur.gajowy@gmail.com> 1538738537 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto ae3813456e0b2e065919e2be45d4843e9dc1c8a6
+e59f61c1c46eab9278b98a5f11850cd063d93e69 ece865cd0aa993b0433254a4e05d350f80f4e3ee Artur Gajowy <artur.gajowy@gmail.com> 1538738696 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 122910e1c8ed3f5533fee99c74f32b632236f6c7
+ece865cd0aa993b0433254a4e05d350f80f4e3ee e5187d9052a20c7b260edb24795909928e335421 Artur Gajowy <artur.gajowy@gmail.com> 1538780751 +0200	reset: moving to fofo
+e5187d9052a20c7b260edb24795909928e335421 1e8d83035b575a719ac527edcaf59f8b20021b19 Artur Gajowy <artur.gajowy@gmail.com> 1538780885 +0200	commit: Diff
