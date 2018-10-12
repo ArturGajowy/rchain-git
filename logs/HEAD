@@ -1,57 +1,8 @@
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 1144203eb9f4b8f0555c4828b99a0585d0193357 Artur Gajowy <artur.gajowy@gmail.com> 1536569920 +0200	checkout: moving from dev to rho_parse
-1144203eb9f4b8f0555c4828b99a0585d0193357 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536569939 +0200	checkout: moving from rho_parse to dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 9d8c4bf811a558f89f41c2fe5eedf4f94528330f Artur Gajowy <artur.gajowy@gmail.com> 1536570150 +0200	checkout: moving from dev to post_memo_refactors
-9d8c4bf811a558f89f41c2fe5eedf4f94528330f 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536570349 +0200	checkout: moving from post_memo_refactors to mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536570497 +0200	checkout: moving from mbm_memo to dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536571522 +0200	checkout: moving from dev to mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536571648 +0200	checkout: moving from mbm_memo to upstream/dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536571686 +0200	checkout: moving from upstream/dev to mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536571699 +0200	checkout: moving from mbm_memo to dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536571738 +0200	checkout: moving from dev to mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 97681875110ee1befb0fc90f5db4681d37b11d8b Artur Gajowy <artur.gajowy@gmail.com> 1536572935 +0200	checkout: moving from mbm_memo to reminder_syntax_maps_and_sets
-97681875110ee1befb0fc90f5db4681d37b11d8b 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536572942 +0200	checkout: moving from reminder_syntax_maps_and_sets to dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 63a0785d1542a7f4419e7413c354df53ec4db06b Artur Gajowy <artur.gajowy@gmail.com> 1536573074 +0200	checkout: moving from dev to add_coursier
-63a0785d1542a7f4419e7413c354df53ec4db06b 63a0785d1542a7f4419e7413c354df53ec4db06b Artur Gajowy <artur.gajowy@gmail.com> 1536573126 +0200	rebase -i (start): checkout add_coursier
-63a0785d1542a7f4419e7413c354df53ec4db06b 63a0785d1542a7f4419e7413c354df53ec4db06b Artur Gajowy <artur.gajowy@gmail.com> 1536573148 +0200	rebase -i (start): checkout add_coursier
-63a0785d1542a7f4419e7413c354df53ec4db06b 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573151 +0200	rebase -i (start): checkout dev
 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 b3c66f50f8ed73fff80453235a223e830076a243 Artur Gajowy <artur.gajowy@gmail.com> 1536573151 +0200	rebase -i (pick): Add coursier for parallel dependency fetching
 b3c66f50f8ed73fff80453235a223e830076a243 b3c66f50f8ed73fff80453235a223e830076a243 Artur Gajowy <artur.gajowy@gmail.com> 1536573151 +0200	rebase -i (finish): returning to refs/heads/add_coursier
 b3c66f50f8ed73fff80453235a223e830076a243 e33559543183910025da052dde60d8f86788d2a5 Artur Gajowy <artur.gajowy@gmail.com> 1536573213 +0200	checkout: moving from add_coursier to huge_string_concat
 e33559543183910025da052dde60d8f86788d2a5 e33559543183910025da052dde60d8f86788d2a5 Artur Gajowy <artur.gajowy@gmail.com> 1536573269 +0200	rebase -i (start): checkout huge_string_concat
 e33559543183910025da052dde60d8f86788d2a5 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573278 +0200	rebase -i (start): checkout dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 67395becc6f41eff330ebcb33520f6a6a4b5d46c Artur Gajowy <artur.gajowy@gmail.com> 1536573382 +0200	commit (cherry-pick): Reformat code
-67395becc6f41eff330ebcb33520f6a6a4b5d46c 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573415 +0200	reset: moving to HEAD^
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 94b219f5a30c7b5bf91d7d1857a8727dd7d1d1f5 Artur Gajowy <artur.gajowy@gmail.com> 1536573423 +0200	rebase -i (pick): Patch a StackOverflowError
-94b219f5a30c7b5bf91d7d1857a8727dd7d1d1f5 45d25220123422d6cd8396ee694e6ac44f6a23ff Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): ScoreTree contravariant
-45d25220123422d6cd8396ee694e6ac44f6a23ff d425ce5c9c2996fd9fc899a809b53e9d4e28a109 Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): Sortable returning via a suspendable effect
-d425ce5c9c2996fd9fc899a809b53e9d4e28a109 fbd6ad6700c186ab15ba342d32a58ad62e7c9b43 Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): ExprSortMatcher returns via F
-fbd6ad6700c186ab15ba342d32a58ad62e7c9b43 d0d179138fcec2937abf2265b7b47a7076ff1a91 Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): BundleSortMatcher returns via F
-d0d179138fcec2937abf2265b7b47a7076ff1a91 920283373a62be3d8dd2a114563fdd2ba2d9cbfd Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): ChannelSortMatcher returns via F
-920283373a62be3d8dd2a114563fdd2ba2d9cbfd e3379c7489612fa948d2651177ba6874801eb38e Artur Gajowy <artur.gajowy@gmail.com> 1536573424 +0200	rebase -i (pick): ConnectiveSortMatcher returns via F
-e3379c7489612fa948d2651177ba6874801eb38e 7f5d2bc61baaecf3204daba969c61aa76bb5f873 Artur Gajowy <artur.gajowy@gmail.com> 1536573453 +0200	rebase -i (continue): GroundSortMatcher returns via F
-7f5d2bc61baaecf3204daba969c61aa76bb5f873 0b2e42d1b4b56c66ddb361d9aa71fe288dd822c3 Artur Gajowy <artur.gajowy@gmail.com> 1536573454 +0200	rebase -i (pick): MatchSortMatcher returns via F
-0b2e42d1b4b56c66ddb361d9aa71fe288dd822c3 4abe58063a1aa8af9fc62f1a3389c08fe10a93f9 Artur Gajowy <artur.gajowy@gmail.com> 1536573455 +0200	rebase -i (pick): NewSortMatcher returns via F
-4abe58063a1aa8af9fc62f1a3389c08fe10a93f9 a48a6dd03e0b46c6f2e96ae16f00699a12b0ce9c Artur Gajowy <artur.gajowy@gmail.com> 1536573455 +0200	rebase -i (pick): ParSortMatcher returns via F
-a48a6dd03e0b46c6f2e96ae16f00699a12b0ce9c 356c0b76280d0929b972f4063c2ae816412b3eec Artur Gajowy <artur.gajowy@gmail.com> 1536573456 +0200	rebase -i (pick): ReceiveSortMatcher returns via F
-356c0b76280d0929b972f4063c2ae816412b3eec cc47dc9137b8383c7efab50519395eae888af27e Artur Gajowy <artur.gajowy@gmail.com> 1536573456 +0200	rebase -i (pick): SendSortMatcher returns via F
-cc47dc9137b8383c7efab50519395eae888af27e 0884dfb49d059c38acd4e775cb13780d62215a04 Artur Gajowy <artur.gajowy@gmail.com> 1536573456 +0200	rebase -i (pick): VarSortMatcher returns via F
-0884dfb49d059c38acd4e775cb13780d62215a04 baf70d4dc0bd09f5340287c1cc37d548c45e6e7a Artur Gajowy <artur.gajowy@gmail.com> 1536573457 +0200	rebase -i (pick): BoolSortMatcher returns via F
-baf70d4dc0bd09f5340287c1cc37d548c45e6e7a b745eed2e2342b6366f4f021feb745d54d1aabe8 Artur Gajowy <artur.gajowy@gmail.com> 1536573457 +0200	rebase -i (pick): ReceiveBindsSortMatcher returns via F
-b745eed2e2342b6366f4f021feb745d54d1aabe8 d042680bace6e9208bcccc5aba3060c05dc0bf82 Artur Gajowy <artur.gajowy@gmail.com> 1536573457 +0200	rebase -i (pick): Patch-up usages of Sortable.sortMatch
-d042680bace6e9208bcccc5aba3060c05dc0bf82 fcfe8c66ab5f9e73eed8db03d411623633b5f520 Artur Gajowy <artur.gajowy@gmail.com> 1536573458 +0200	rebase -i (pick): PrettyPrinter uses Coeval internally
-fcfe8c66ab5f9e73eed8db03d411623633b5f520 c06152752c450f440349d2eec706be13aad9f7a2 Artur Gajowy <artur.gajowy@gmail.com> 1536573458 +0200	rebase -i (pick): No more StackOverflowException for PrettyPrint-ing huge string concats
-c06152752c450f440349d2eec706be13aad9f7a2 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536573486 +0200	rebase -i (continue): Make the whole project compile by Mateusz Górski
-532684d67dae54624c9647e9f12966bf0c31e390 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536573489 +0200	rebase -i (finish): returning to refs/heads/huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 1144203eb9f4b8f0555c4828b99a0585d0193357 Artur Gajowy <artur.gajowy@gmail.com> 1536573508 +0200	checkout: moving from huge_string_concat to rho_parse
-1144203eb9f4b8f0555c4828b99a0585d0193357 1144203eb9f4b8f0555c4828b99a0585d0193357 Artur Gajowy <artur.gajowy@gmail.com> 1536573540 +0200	rebase -i (start): checkout rho_parse
-1144203eb9f4b8f0555c4828b99a0585d0193357 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573543 +0200	rebase -i (start): checkout dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 f012392c42910a3757cf8feb4adf7faaf950b027 Artur Gajowy <artur.gajowy@gmail.com> 1536573543 +0200	rebase -i (pick): Add MatchTest.parse for easier expression of more readable test cases
-f012392c42910a3757cf8feb4adf7faaf950b027 e4a0f9298ba266fbea94ddb5330ea56de801d787 Artur Gajowy <artur.gajowy@gmail.com> 1536573543 +0200	rebase -i (pick): Add rudimentary support for bound variables in MatchTest.parse
-e4a0f9298ba266fbea94ddb5330ea56de801d787 e4a0f9298ba266fbea94ddb5330ea56de801d787 Artur Gajowy <artur.gajowy@gmail.com> 1536573543 +0200	rebase -i (finish): returning to refs/heads/rho_parse
-e4a0f9298ba266fbea94ddb5330ea56de801d787 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573566 +0200	checkout: moving from rho_parse to dev
-4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 97681875110ee1befb0fc90f5db4681d37b11d8b Artur Gajowy <artur.gajowy@gmail.com> 1536573577 +0200	checkout: moving from dev to reminder_syntax_maps_and_sets
-97681875110ee1befb0fc90f5db4681d37b11d8b 97681875110ee1befb0fc90f5db4681d37b11d8b Artur Gajowy <artur.gajowy@gmail.com> 1536573612 +0200	rebase -i (start): checkout reminder_syntax_maps_and_sets
-97681875110ee1befb0fc90f5db4681d37b11d8b 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536573618 +0200	rebase -i (start): checkout dev
 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 f47b049a4ad7868451998ae750d49988afe487e9 Artur Gajowy <artur.gajowy@gmail.com> 1536573618 +0200	rebase -i (pick): Add missing private modifiers
 f47b049a4ad7868451998ae750d49988afe487e9 86638f3775d82d3e0644286837d3dd6adcc5185b Artur Gajowy <artur.gajowy@gmail.com> 1536573619 +0200	rebase -i (pick): Remove redundant .toSeq
 86638f3775d82d3e0644286837d3dd6adcc5185b ce432f2a5c00c7ddf6e94b436cf5376b3ac31e62 Artur Gajowy <artur.gajowy@gmail.com> 1536573677 +0200	rebase -i (continue): Simplify a test constructor for ParMap
@@ -73,53 +24,8 @@ e54b2baa055a46bb5c351e11033ac77a46a7f1ca 948b51eedf863c4b0d3a93f188719b708463587
 232077d8f4ddb3306723af717f5eee5d6d7b1457 fa7c6763bb4033799954cf36ceda79a0291aafb6 Artur Gajowy <artur.gajowy@gmail.com> 1536573805 +0200	rebase -i (pick): Add matching for maps with var remainders
 fa7c6763bb4033799954cf36ceda79a0291aafb6 a8ce78581b4b1dff2ad912da8831ef5851af11e9 Artur Gajowy <artur.gajowy@gmail.com> 1536573805 +0200	rebase -i (pick): Reformat code
 a8ce78581b4b1dff2ad912da8831ef5851af11e9 a8ce78581b4b1dff2ad912da8831ef5851af11e9 Artur Gajowy <artur.gajowy@gmail.com> 1536573881 +0200	rebase -i (finish): returning to refs/heads/reminder_syntax_maps_and_sets
-a8ce78581b4b1dff2ad912da8831ef5851af11e9 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536573998 +0200	checkout: moving from reminder_syntax_maps_and_sets to mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 7d250625a22c3a802c289783138b1113bde56666 Artur Gajowy <artur.gajowy@gmail.com> 1536574012 +0200	rebase -i (start): checkout mbm_memo
-7d250625a22c3a802c289783138b1113bde56666 a8ce78581b4b1dff2ad912da8831ef5851af11e9 Artur Gajowy <artur.gajowy@gmail.com> 1536574020 +0200	rebase -i (start): checkout reminder_syntax_maps_and_sets
-a8ce78581b4b1dff2ad912da8831ef5851af11e9 eec2c6424ff2eea27ae7433eadacbc9f524fbed5 Artur Gajowy <artur.gajowy@gmail.com> 1536574020 +0200	rebase -i (pick): Optimize imports
-eec2c6424ff2eea27ae7433eadacbc9f524fbed5 3fd793cf9cac1b36a894439c993d4eb1b1bfb1fb Artur Gajowy <artur.gajowy@gmail.com> 1536574020 +0200	rebase -i (pick): Fix minor idea highlighting hiccup
-3fd793cf9cac1b36a894439c993d4eb1b1bfb1fb 08985dc61cd2b57b7456c5eb781ed0ef4ab97712 Artur Gajowy <artur.gajowy@gmail.com> 1536574020 +0200	rebase -i (pick): Make `guard` a private method of SpatialMatcher
-08985dc61cd2b57b7456c5eb781ed0ef4ab97712 ffe9316da024ac66e764e28cd13e001f94db78b7 Artur Gajowy <artur.gajowy@gmail.com> 1536574020 +0200	rebase -i (pick): Change `attempt: F[Either[Unit, A]]` into `attemptOpt: F[Option[A]]`
-ffe9316da024ac66e764e28cd13e001f94db78b7 93be03c39b47e04f20c6d908169d1b553ab3ac9f Artur Gajowy <artur.gajowy@gmail.com> 1536574021 +0200	rebase -i (pick): Allow for capturing custom match results in MaximumBipartiteMatch
-93be03c39b47e04f20c6d908169d1b553ab3ac9f 1fe54ac1391341229c0a94f8db113b30c27aa246 Artur Gajowy <artur.gajowy@gmail.com> 1536574021 +0200	rebase -i (pick): Add SpatialMatcher#isolateState
-1fe54ac1391341229c0a94f8db113b30c27aa246 ff71a0efa6867f407c441539018625d8040907b4 Artur Gajowy <artur.gajowy@gmail.com> 1536574021 +0200	rebase -i (pick): Isolate MaximumBipartiteMatch from changing the FreeMap
-ff71a0efa6867f407c441539018625d8040907b4 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536574021 +0200	rebase -i (pick): Memoize calls to matchFunction
-3803faa92a01342a6245c26ae261d0c4e8788020 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536574021 +0200	rebase -i (finish): returning to refs/heads/mbm_memo
-3803faa92a01342a6245c26ae261d0c4e8788020 9d8c4bf811a558f89f41c2fe5eedf4f94528330f Artur Gajowy <artur.gajowy@gmail.com> 1536574026 +0200	checkout: moving from mbm_memo to post_memo_refactors
-9d8c4bf811a558f89f41c2fe5eedf4f94528330f 9d8c4bf811a558f89f41c2fe5eedf4f94528330f Artur Gajowy <artur.gajowy@gmail.com> 1536574028 +0200	rebase -i (start): checkout post_memo_refactors
-9d8c4bf811a558f89f41c2fe5eedf4f94528330f 9d8c4bf811a558f89f41c2fe5eedf4f94528330f Artur Gajowy <artur.gajowy@gmail.com> 1536574099 +0200	rebase -i (start): checkout post_memo_refactors
-9d8c4bf811a558f89f41c2fe5eedf4f94528330f 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536574104 +0200	rebase -i (start): checkout mbm_memo
-3803faa92a01342a6245c26ae261d0c4e8788020 2e9834b28bc236e16f003e8a7a3f344979f245c8 Artur Gajowy <artur.gajowy@gmail.com> 1536574104 +0200	rebase -i (pick): Remove unnecessary use of NonDetFreeMapWithCost
-2e9834b28bc236e16f003e8a7a3f344979f245c8 550530be4a7238bac61575cc422c96d31bc3a306 Artur Gajowy <artur.gajowy@gmail.com> 1536574104 +0200	rebase -i (pick): Replace `possilbyFind` with a call to `collectFirst`
-550530be4a7238bac61575cc422c96d31bc3a306 44cf3d1b08dec769d0f6a7fd9fc0db807a2da1d3 Artur Gajowy <artur.gajowy@gmail.com> 1536574104 +0200	rebase -i (pick): Replace a nested pattern match with a single pattern
-44cf3d1b08dec769d0f6a7fd9fc0db807a2da1d3 ca279506abe3233b99384f3b8f02d553676e8061 Artur Gajowy <artur.gajowy@gmail.com> 1536574105 +0200	rebase -i (pick): Rename `varLevel` to `remainder` in `listMatchSingle_` and downstream
-ca279506abe3233b99384f3b8f02d553676e8061 febdba1621cf4fb076a7c8bb226dfe343122995d Artur Gajowy <artur.gajowy@gmail.com> 1536574105 +0200	rebase -i (pick): Remove 'implicit numeric widening' warnings
-febdba1621cf4fb076a7c8bb226dfe343122995d bd297ad3e1c518edeef89ba217d26a75733a4609 Artur Gajowy <artur.gajowy@gmail.com> 1536574105 +0200	rebase -i (pick): Remove 'type parameter shadows type' warnings
-bd297ad3e1c518edeef89ba217d26a75733a4609 6445dac7ef111ec4621c8a3a7c34257e56fcf689 Artur Gajowy <artur.gajowy@gmail.com> 1536574105 +0200	rebase -i (pick): Introduce OptionWithCost and StreamWithCost type aliases
-6445dac7ef111ec4621c8a3a7c34257e56fcf689 6445dac7ef111ec4621c8a3a7c34257e56fcf689 Artur Gajowy <artur.gajowy@gmail.com> 1536574105 +0200	rebase -i (finish): returning to refs/heads/post_memo_refactors
-6445dac7ef111ec4621c8a3a7c34257e56fcf689 e4a0f9298ba266fbea94ddb5330ea56de801d787 Artur Gajowy <artur.gajowy@gmail.com> 1536574403 +0200	checkout: moving from post_memo_refactors to rho_parse
-e4a0f9298ba266fbea94ddb5330ea56de801d787 b3c66f50f8ed73fff80453235a223e830076a243 Artur Gajowy <artur.gajowy@gmail.com> 1536574430 +0200	checkout: moving from rho_parse to add_coursier
-b3c66f50f8ed73fff80453235a223e830076a243 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536574439 +0200	checkout: moving from add_coursier to huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 a8ce78581b4b1dff2ad912da8831ef5851af11e9 Artur Gajowy <artur.gajowy@gmail.com> 1536574450 +0200	checkout: moving from huge_string_concat to reminder_syntax_maps_and_sets
-a8ce78581b4b1dff2ad912da8831ef5851af11e9 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536574457 +0200	checkout: moving from reminder_syntax_maps_and_sets to mbm_memo
-3803faa92a01342a6245c26ae261d0c4e8788020 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 Artur Gajowy <artur.gajowy@gmail.com> 1536578039 +0200	checkout: moving from mbm_memo to dev
 4d15bb72ea7df00b7e5c0dc7f48cea8b62a6e829 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 Artur Gajowy <artur.gajowy@gmail.com> 1536578045 +0200	pull: Fast-forward
 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 b3c66f50f8ed73fff80453235a223e830076a243 Artur Gajowy <artur.gajowy@gmail.com> 1536578066 +0200	checkout: moving from dev to add_coursier
-b3c66f50f8ed73fff80453235a223e830076a243 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536578081 +0200	checkout: moving from add_coursier to huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536578089 +0200	rebase -i (start): checkout huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 Artur Gajowy <artur.gajowy@gmail.com> 1536578094 +0200	rebase -i (start): checkout dev
-a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 467bfb58508f8bbd700ccbe84e4397ca99704bb1 Artur Gajowy <artur.gajowy@gmail.com> 1536578094 +0200	rebase -i (pick): Patch a StackOverflowError
-467bfb58508f8bbd700ccbe84e4397ca99704bb1 c81e9f0fe5516c9ceabb90b3cb3c38d5cc672c8d Artur Gajowy <artur.gajowy@gmail.com> 1536578094 +0200	rebase -i (pick): ScoreTree contravariant
-c81e9f0fe5516c9ceabb90b3cb3c38d5cc672c8d 4b77727fe8c0664a3e65c2de400a0929e475846e Artur Gajowy <artur.gajowy@gmail.com> 1536578094 +0200	rebase -i (pick): Sortable returning via a suspendable effect
-4b77727fe8c0664a3e65c2de400a0929e475846e c88e89dfa932e250ae6cf6a00ea4e513a28f97d1 Artur Gajowy <artur.gajowy@gmail.com> 1536578095 +0200	rebase -i (pick): ExprSortMatcher returns via F
-c88e89dfa932e250ae6cf6a00ea4e513a28f97d1 1c0e8e4fa7fd5e25a217dc91fe89fb57bfdfb262 Artur Gajowy <artur.gajowy@gmail.com> 1536578095 +0200	rebase -i (pick): BundleSortMatcher returns via F
-1c0e8e4fa7fd5e25a217dc91fe89fb57bfdfb262 34d383fffd4776ee42774bc1d6163c0373d30839 Artur Gajowy <artur.gajowy@gmail.com> 1536578095 +0200	rebase -i (pick): ChannelSortMatcher returns via F
-34d383fffd4776ee42774bc1d6163c0373d30839 e1063335a788c1a2d2168301127e6fb63396df23 Artur Gajowy <artur.gajowy@gmail.com> 1536578095 +0200	rebase -i (pick): ConnectiveSortMatcher returns via F
-e1063335a788c1a2d2168301127e6fb63396df23 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536578113 +0200	rebase: aborting
-532684d67dae54624c9647e9f12966bf0c31e390 a8ce78581b4b1dff2ad912da8831ef5851af11e9 Artur Gajowy <artur.gajowy@gmail.com> 1536578131 +0200	checkout: moving from huge_string_concat to reminder_syntax_maps_and_sets
-a8ce78581b4b1dff2ad912da8831ef5851af11e9 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536578279 +0200	checkout: moving from reminder_syntax_maps_and_sets to mbm_memo
-3803faa92a01342a6245c26ae261d0c4e8788020 3803faa92a01342a6245c26ae261d0c4e8788020 Artur Gajowy <artur.gajowy@gmail.com> 1536578279 +0200	rebase -i (start): checkout mbm_memo
-3803faa92a01342a6245c26ae261d0c4e8788020 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (start): checkout dev
 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 0c33d4cabd8013db45db1bb3f4f8e5eb3eeaec04 Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (pick): Optimize imports
 0c33d4cabd8013db45db1bb3f4f8e5eb3eeaec04 c9d77d6a08dde46659bfaf0b7665e858c7ae3346 Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (pick): Fix minor idea highlighting hiccup
 c9d77d6a08dde46659bfaf0b7665e858c7ae3346 8cfec72183522a3a7603c2117db5eef513e8beac Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (pick): Make `guard` a private method of SpatialMatcher
@@ -127,38 +33,10 @@ c9d77d6a08dde46659bfaf0b7665e858c7ae3346 8cfec72183522a3a7603c2117db5eef513e8bea
 c6040dc8dcf8e02c4847a5e30402ddb91ff78932 e703ef34b05d43710a71920cfc81733153dab5df Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (pick): Allow for capturing custom match results in MaximumBipartiteMatch
 e703ef34b05d43710a71920cfc81733153dab5df babc137a5047e2721cce609e26333528b8abaab2 Artur Gajowy <artur.gajowy@gmail.com> 1536578282 +0200	rebase -i (pick): Add SpatialMatcher#isolateState
 babc137a5047e2721cce609e26333528b8abaab2 649311c938cb97585ba842eebc8a68efb22c8fa3 Artur Gajowy <artur.gajowy@gmail.com> 1536578283 +0200	rebase -i (pick): Isolate MaximumBipartiteMatch from changing the FreeMap
-649311c938cb97585ba842eebc8a68efb22c8fa3 90a2f047922f6a34a195b78608c57ce78ca48c18 Artur Gajowy <artur.gajowy@gmail.com> 1536578283 +0200	rebase -i (pick): Memoize calls to matchFunction
-90a2f047922f6a34a195b78608c57ce78ca48c18 90a2f047922f6a34a195b78608c57ce78ca48c18 Artur Gajowy <artur.gajowy@gmail.com> 1536578283 +0200	rebase -i (finish): returning to refs/heads/mbm_memo
-90a2f047922f6a34a195b78608c57ce78ca48c18 6445dac7ef111ec4621c8a3a7c34257e56fcf689 Artur Gajowy <artur.gajowy@gmail.com> 1536578353 +0200	checkout: moving from mbm_memo to post_memo_refactors
-6445dac7ef111ec4621c8a3a7c34257e56fcf689 6445dac7ef111ec4621c8a3a7c34257e56fcf689 Artur Gajowy <artur.gajowy@gmail.com> 1536578356 +0200	rebase -i (start): checkout post_memo_refactors
-6445dac7ef111ec4621c8a3a7c34257e56fcf689 90a2f047922f6a34a195b78608c57ce78ca48c18 Artur Gajowy <artur.gajowy@gmail.com> 1536578358 +0200	rebase -i (start): checkout mbm_memo
-90a2f047922f6a34a195b78608c57ce78ca48c18 b6c742c1fb09337f046456cd86010cdc337092e4 Artur Gajowy <artur.gajowy@gmail.com> 1536578358 +0200	rebase -i (pick): Remove unnecessary use of NonDetFreeMapWithCost
-b6c742c1fb09337f046456cd86010cdc337092e4 2f8234c1baff00b34ed55f291af55e957aa2f5f5 Artur Gajowy <artur.gajowy@gmail.com> 1536578358 +0200	rebase -i (pick): Replace `possilbyFind` with a call to `collectFirst`
-2f8234c1baff00b34ed55f291af55e957aa2f5f5 6e19240a2b38cd740768d7528cdbe942f5efa462 Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (pick): Replace a nested pattern match with a single pattern
-6e19240a2b38cd740768d7528cdbe942f5efa462 cde4a07706fb09b58353c192309f7c385c1b6bcd Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (pick): Rename `varLevel` to `remainder` in `listMatchSingle_` and downstream
-cde4a07706fb09b58353c192309f7c385c1b6bcd cea49dc03b2ffaa7d816c15e51c49338844149a8 Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (pick): Remove 'implicit numeric widening' warnings
-cea49dc03b2ffaa7d816c15e51c49338844149a8 1fd68c3b09b405107dd6585ef1ee0390dff181fc Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (pick): Remove 'type parameter shadows type' warnings
-1fd68c3b09b405107dd6585ef1ee0390dff181fc 1633c5a41dff6c279c0ee2a955066e1a20b9910f Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (pick): Introduce OptionWithCost and StreamWithCost type aliases
-1633c5a41dff6c279c0ee2a955066e1a20b9910f 1633c5a41dff6c279c0ee2a955066e1a20b9910f Artur Gajowy <artur.gajowy@gmail.com> 1536578359 +0200	rebase -i (finish): returning to refs/heads/post_memo_refactors
-1633c5a41dff6c279c0ee2a955066e1a20b9910f e4a0f9298ba266fbea94ddb5330ea56de801d787 Artur Gajowy <artur.gajowy@gmail.com> 1536578366 +0200	checkout: moving from post_memo_refactors to rho_parse
-e4a0f9298ba266fbea94ddb5330ea56de801d787 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536581524 +0200	checkout: moving from rho_parse to huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 Artur Gajowy <artur.gajowy@gmail.com> 1536603374 +0200	checkout: moving from huge_string_concat to dev
 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 118c9b712cf02952955c375d86a5ec53424276f5 Artur Gajowy <artur.gajowy@gmail.com> 1536610864 +0200	commit: Make sure InterpreterError's methods don't cause exceptions themselves
 118c9b712cf02952955c375d86a5ec53424276f5 118c9b712cf02952955c375d86a5ec53424276f5 Artur Gajowy <artur.gajowy@gmail.com> 1536610887 +0200	checkout: moving from dev to rholang_exceptions
 118c9b712cf02952955c375d86a5ec53424276f5 118c9b712cf02952955c375d86a5ec53424276f5 Artur Gajowy <artur.gajowy@gmail.com> 1536619017 +0200	checkout: moving from rholang_exceptions to rholang_exceptions_bis
-118c9b712cf02952955c375d86a5ec53424276f5 f9f70a50e154058c0d4e4be371b4486e5bba551a Artur Gajowy <artur.gajowy@gmail.com> 1536619859 +0200	commit (amend): Make sure InterpreterError's methods don't cause exceptions themselves
-f9f70a50e154058c0d4e4be371b4486e5bba551a e866548ac9f1d1c5f9f71eaf94e77ca36f5fe1cf Artur Gajowy <artur.gajowy@gmail.com> 1536619866 +0200	commit (amend): Make sure InterpreterError's methods don't cause exceptions themselves
-e866548ac9f1d1c5f9f71eaf94e77ca36f5fe1cf f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 Artur Gajowy <artur.gajowy@gmail.com> 1536662091 +0200	commit: Move implicits.scala to implicits/package.scala to fix compilation error
-f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 Artur Gajowy <artur.gajowy@gmail.com> 1536662121 +0200	checkout: moving from rholang_exceptions_bis to package_object
-f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 118c9b712cf02952955c375d86a5ec53424276f5 Artur Gajowy <artur.gajowy@gmail.com> 1536662128 +0200	checkout: moving from package_object to dev
-118c9b712cf02952955c375d86a5ec53424276f5 f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 Artur Gajowy <artur.gajowy@gmail.com> 1536662132 +0200	checkout: moving from dev to package_object
-f5d10e80a0fbaf8b6e477075e60cdd0b1b2da5d8 a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 Artur Gajowy <artur.gajowy@gmail.com> 1536662178 +0200	rebase -i (start): checkout upstream/dev
-a2c4d8445b76449bfb29797a99b255c3bcd5e7d8 ff6b1e14af3521d7d975397536287986bfcb1b80 Artur Gajowy <artur.gajowy@gmail.com> 1536662178 +0200	rebase -i (pick): Move implicits.scala to implicits/package.scala to fix compilation error
-ff6b1e14af3521d7d975397536287986bfcb1b80 ff6b1e14af3521d7d975397536287986bfcb1b80 Artur Gajowy <artur.gajowy@gmail.com> 1536662178 +0200	rebase -i (finish): returning to refs/heads/package_object
-ff6b1e14af3521d7d975397536287986bfcb1b80 118c9b712cf02952955c375d86a5ec53424276f5 Artur Gajowy <artur.gajowy@gmail.com> 1536662186 +0200	checkout: moving from package_object to dev
 118c9b712cf02952955c375d86a5ec53424276f5 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536662191 +0200	merge upstream/dev: Fast-forward
-f77881068e77b947e6be6b09accae6f5378a60a6 ff6b1e14af3521d7d975397536287986bfcb1b80 Artur Gajowy <artur.gajowy@gmail.com> 1536662195 +0200	checkout: moving from dev to package_object
-ff6b1e14af3521d7d975397536287986bfcb1b80 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536662206 +0200	rebase: checkout dev
 f77881068e77b947e6be6b09accae6f5378a60a6 b37f11b6c9c627d998a40acc2ebcb50fc87bdb82 Artur Gajowy <artur.gajowy@gmail.com> 1536662206 +0200	rebase: Move implicits.scala to implicits/package.scala to fix compilation error
 b37f11b6c9c627d998a40acc2ebcb50fc87bdb82 b37f11b6c9c627d998a40acc2ebcb50fc87bdb82 Artur Gajowy <artur.gajowy@gmail.com> 1536662207 +0200	rebase finished: returning to refs/heads/package_object
 b37f11b6c9c627d998a40acc2ebcb50fc87bdb82 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536663112 +0200	checkout: moving from package_object to dev
@@ -169,82 +47,6 @@ f77881068e77b947e6be6b09accae6f5378a60a6 18cde009a0bf0cbe9774013fe962086ff475b5f
 18cde009a0bf0cbe9774013fe962086ff475b5f3 18cde009a0bf0cbe9774013fe962086ff475b5f3 Artur Gajowy <artur.gajowy@gmail.com> 1536665456 +0200	checkout: moving from fix_warnings to dev
 18cde009a0bf0cbe9774013fe962086ff475b5f3 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536665463 +0200	reset: moving to HEAD^
 f77881068e77b947e6be6b09accae6f5378a60a6 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536665933 +0200	checkout: moving from dev to hydra_gitignore
-f77881068e77b947e6be6b09accae6f5378a60a6 c54bb4b6f2117d54af991360f187a44736f3f4b6 Artur Gajowy <artur.gajowy@gmail.com> 1536666030 +0200	commit: Add .hydra to .gitignore
-c54bb4b6f2117d54af991360f187a44736f3f4b6 f77881068e77b947e6be6b09accae6f5378a60a6 Artur Gajowy <artur.gajowy@gmail.com> 1536666090 +0200	checkout: moving from hydra_gitignore to dev
-f77881068e77b947e6be6b09accae6f5378a60a6 532684d67dae54624c9647e9f12966bf0c31e390 Artur Gajowy <artur.gajowy@gmail.com> 1536666225 +0200	checkout: moving from dev to huge_string_concat
-532684d67dae54624c9647e9f12966bf0c31e390 90a2f047922f6a34a195b78608c57ce78ca48c18 Artur Gajowy <artur.gajowy@gmail.com> 1536666246 +0200	rebase -i (start): checkout mbm_memo
-90a2f047922f6a34a195b78608c57ce78ca48c18 ffeea8e74068f5c943aafc9645d82626efe08e13 Artur Gajowy <artur.gajowy@gmail.com> 1536666246 +0200	rebase -i (pick): Patch a StackOverflowError
-ffeea8e74068f5c943aafc9645d82626efe08e13 126ca357d3b4e90aab1d632d6da6980a4b0fffe1 Artur Gajowy <artur.gajowy@gmail.com> 1536666247 +0200	rebase -i (pick): ScoreTree contravariant
-126ca357d3b4e90aab1d632d6da6980a4b0fffe1 03bde8e8c566fb6a176f4ae9cc2049c617cf4890 Artur Gajowy <artur.gajowy@gmail.com> 1536666247 +0200	rebase -i (pick): Sortable returning via a suspendable effect
-03bde8e8c566fb6a176f4ae9cc2049c617cf4890 cf8c4e61d7371fc2ea742297029cd0481259c38f Artur Gajowy <artur.gajowy@gmail.com> 1536666247 +0200	rebase -i (pick): ExprSortMatcher returns via F
-cf8c4e61d7371fc2ea742297029cd0481259c38f 7d816f5c3c2eabcdd45f371fb89f4e6c2f80f87b Artur Gajowy <artur.gajowy@gmail.com> 1536666248 +0200	rebase -i (pick): BundleSortMatcher returns via F
-7d816f5c3c2eabcdd45f371fb89f4e6c2f80f87b 7f02ca411add07775c29ce7d1fbc9b9aa238b4ee Artur Gajowy <artur.gajowy@gmail.com> 1536666248 +0200	rebase -i (pick): ChannelSortMatcher returns via F
-7f02ca411add07775c29ce7d1fbc9b9aa238b4ee 5e05931b7a27f97fc0e4a932515e48a594f153a4 Artur Gajowy <artur.gajowy@gmail.com> 1536666248 +0200	rebase -i (pick): ConnectiveSortMatcher returns via F
-5e05931b7a27f97fc0e4a932515e48a594f153a4 5bca403842517eadba6849a5098c7bddef4e5f3c Artur Gajowy <artur.gajowy@gmail.com> 1536666399 +0200	rebase -i (continue): GroundSortMatcher returns via F
-5bca403842517eadba6849a5098c7bddef4e5f3c 8aa5f5a24460b7326ae30545893e89a8cd73dbbf Artur Gajowy <artur.gajowy@gmail.com> 1536666402 +0200	rebase -i (pick): MatchSortMatcher returns via F
-8aa5f5a24460b7326ae30545893e89a8cd73dbbf fab7dc245993810b6eb828921033031dd2f3a3a2 Artur Gajowy <artur.gajowy@gmail.com> 1536666403 +0200	rebase -i (pick): NewSortMatcher returns via F
-fab7dc245993810b6eb828921033031dd2f3a3a2 e3625b8ef4344b308916affe675c00e13f7a95e6 Artur Gajowy <artur.gajowy@gmail.com> 1536666403 +0200	rebase -i (pick): ParSortMatcher returns via F
-e3625b8ef4344b308916affe675c00e13f7a95e6 57b9643ce95f7881dbe0036e9f982d8c66e8705e Artur Gajowy <artur.gajowy@gmail.com> 1536666403 +0200	rebase -i (pick): ReceiveSortMatcher returns via F
-57b9643ce95f7881dbe0036e9f982d8c66e8705e bad603f2d5708ceb0cb82a91f1918b03e9d9b6ea Artur Gajowy <artur.gajowy@gmail.com> 1536666404 +0200	rebase -i (pick): SendSortMatcher returns via F
-bad603f2d5708ceb0cb82a91f1918b03e9d9b6ea c4f0672635257b672a0e03a9be19c5b30e4db198 Artur Gajowy <artur.gajowy@gmail.com> 1536666404 +0200	rebase -i (pick): VarSortMatcher returns via F
-c4f0672635257b672a0e03a9be19c5b30e4db198 448b38817853eb5fd05d7e9815741d40ba865687 Artur Gajowy <artur.gajowy@gmail.com> 1536666405 +0200	rebase -i (pick): BoolSortMatcher returns via F
-448b38817853eb5fd05d7e9815741d40ba865687 73ee8e532cec5bf43e5f80dcace65a2912265d46 Artur Gajowy <artur.gajowy@gmail.com> 1536666405 +0200	rebase -i (pick): ReceiveBindsSortMatcher returns via F
-73ee8e532cec5bf43e5f80dcace65a2912265d46 ffc2bc2b0ab260d1a385f45e1f05ff76e0476c85 Artur Gajowy <artur.gajowy@gmail.com> 1536666494 +0200	rebase -i (continue): Patch-up usages of Sortable.sortMatch
-ffc2bc2b0ab260d1a385f45e1f05ff76e0476c85 9b9e6e8ab44620e280a2e7ecfa9cdf2b6a46adb2 Artur Gajowy <artur.gajowy@gmail.com> 1536666626 +0200	rebase -i (continue): PrettyPrinter uses Coeval internally
-9b9e6e8ab44620e280a2e7ecfa9cdf2b6a46adb2 353c1b6ac42d78b7b3b41e40db0fd44d9e65b8b9 Artur Gajowy <artur.gajowy@gmail.com> 1536666670 +0200	rebase -i (continue): No more StackOverflowException for PrettyPrint-ing huge string concats
-353c1b6ac42d78b7b3b41e40db0fd44d9e65b8b9 5e201fcbfb552c8271d6e4c5c61c1857c3003c54 Artur Gajowy <artur.gajowy@gmail.com> 1536666709 +0200	rebase -i (continue): Make the whole project compile by Mateusz Górski
-5e201fcbfb552c8271d6e4c5c61c1857c3003c54 5e201fcbfb552c8271d6e4c5c61c1857c3003c54 Artur Gajowy <artur.gajowy@gmail.com> 1536666711 +0200	rebase -i (finish): returning to refs/heads/huge_string_concat
-5e201fcbfb552c8271d6e4c5c61c1857c3003c54 ffeea8e74068f5c943aafc9645d82626efe08e13 Artur Gajowy <artur.gajowy@gmail.com> 1536667084 +0200	rebase -i (start): checkout mbm_memo
-ffeea8e74068f5c943aafc9645d82626efe08e13 ad570e2bdb74327fa35e4aaf7cd7184b8f2110bb Artur Gajowy <artur.gajowy@gmail.com> 1536667109 +0200	rebase -i (start): checkout mbm_memo: Patch a StackOverflowError
-ad570e2bdb74327fa35e4aaf7cd7184b8f2110bb f9b3da001742dd8c10fb6ea1656e42db8179a07c Artur Gajowy <artur.gajowy@gmail.com> 1536667184 +0200	commit (amend): Patch a StackOverflowError
-f9b3da001742dd8c10fb6ea1656e42db8179a07c 5e201fcbfb552c8271d6e4c5c61c1857c3003c54 Artur Gajowy <artur.gajowy@gmail.com> 1536667198 +0200	rebase: aborting
-5e201fcbfb552c8271d6e4c5c61c1857c3003c54 ffeea8e74068f5c943aafc9645d82626efe08e13 Artur Gajowy <artur.gajowy@gmail.com> 1536667229 +0200	rebase -i (start): checkout mbm_memo
-ffeea8e74068f5c943aafc9645d82626efe08e13 f82df80ec439960ca29737ca781bb71ced566c47 Artur Gajowy <artur.gajowy@gmail.com> 1536667255 +0200	rebase -i (start): checkout mbm_memo: Patch a StackOverflowError
-f82df80ec439960ca29737ca781bb71ced566c47 b51bccdc4fd3556263505e579ba3d53bc72b63f8 Artur Gajowy <artur.gajowy@gmail.com> 1536667507 +0200	rebase -i (pick): ScoreTree contravariant
-b51bccdc4fd3556263505e579ba3d53bc72b63f8 5e201fcbfb552c8271d6e4c5c61c1857c3003c54 Artur Gajowy <artur.gajowy@gmail.com> 1536667517 +0200	rebase: aborting
-5e201fcbfb552c8271d6e4c5c61c1857c3003c54 ffeea8e74068f5c943aafc9645d82626efe08e13 Artur Gajowy <artur.gajowy@gmail.com> 1536667536 +0200	rebase -i (start): checkout mbm_memo
-ffeea8e74068f5c943aafc9645d82626efe08e13 5e201fcbfb552c8271d6e4c5c61c1857c3003c54 Artur Gajowy <artur.gajowy@gmail.com> 1536667565 +0200	rebase: aborting
-5e201fcbfb552c8271d6e4c5c61c1857c3003c54 ffeea8e74068f5c943aafc9645d82626efe08e13 Artur Gajowy <artur.gajowy@gmail.com> 1536667569 +0200	rebase -i (start): checkout mbm_memo
-ffeea8e74068f5c943aafc9645d82626efe08e13 cfd3a4bf46981e05bad36e8a2860e66ce5a777b8 Artur Gajowy <artur.gajowy@gmail.com> 1536667596 +0200	rebase -i (start): checkout mbm_memo: Patch a StackOverflowError
-cfd3a4bf46981e05bad36e8a2860e66ce5a777b8 27594a8bb3f40634a41b0c78b29a6e8cc43b08d3 Artur Gajowy <artur.gajowy@gmail.com> 1536667596 +0200	rebase -i (pick): ScoreTree contravariant
-27594a8bb3f40634a41b0c78b29a6e8cc43b08d3 5cf450160cac439d37b1de46da2221042920103a Artur Gajowy <artur.gajowy@gmail.com> 1536667626 +0200	rebase -i (pick): ScoreTree contravariant
-5cf450160cac439d37b1de46da2221042920103a ed7640f5fbac1468931c0a7eecb2fea74dd15ac4 Artur Gajowy <artur.gajowy@gmail.com> 1536667626 +0200	rebase -i (pick): Sortable returning via a suspendable effect
-ed7640f5fbac1468931c0a7eecb2fea74dd15ac4 09401c8b5a2f465cd47374c476f7c9a66132bc06 Artur Gajowy <artur.gajowy@gmail.com> 1536667656 +0200	rebase -i (pick): Sortable returning via a suspendable effect
-09401c8b5a2f465cd47374c476f7c9a66132bc06 b55b225332e62d1c175ea5c1ee312b10c22ac257 Artur Gajowy <artur.gajowy@gmail.com> 1536667656 +0200	rebase -i (pick): ExprSortMatcher returns via F
-b55b225332e62d1c175ea5c1ee312b10c22ac257 a7e624de454558088ea83f51e4d3613828b4c8f0 Artur Gajowy <artur.gajowy@gmail.com> 1536667686 +0200	rebase -i (pick): ExprSortMatcher returns via F
-a7e624de454558088ea83f51e4d3613828b4c8f0 7743caac9a0becb76c8e352ea1bf7890a45f3afe Artur Gajowy <artur.gajowy@gmail.com> 1536667687 +0200	rebase -i (pick): BundleSortMatcher returns via F
-7743caac9a0becb76c8e352ea1bf7890a45f3afe 9ad699a9c04e44bedaf5021253c8c8f22e3fea44 Artur Gajowy <artur.gajowy@gmail.com> 1536667716 +0200	rebase -i (pick): BundleSortMatcher returns via F
-9ad699a9c04e44bedaf5021253c8c8f22e3fea44 1bff91105e6a11c5cba20c223b70b390a77bf893 Artur Gajowy <artur.gajowy@gmail.com> 1536667716 +0200	rebase -i (pick): ChannelSortMatcher returns via F
-1bff91105e6a11c5cba20c223b70b390a77bf893 474b908984fa66c099c209851f77933e9fb2466e Artur Gajowy <artur.gajowy@gmail.com> 1536667744 +0200	rebase -i (pick): ChannelSortMatcher returns via F
-474b908984fa66c099c209851f77933e9fb2466e ed7cf0d76dc39ca120f85538b0471cbe0ad3279d Artur Gajowy <artur.gajowy@gmail.com> 1536667744 +0200	rebase -i (pick): ConnectiveSortMatcher returns via F
-ed7cf0d76dc39ca120f85538b0471cbe0ad3279d 149435b386bd73624584489a6b422d61b0f33886 Artur Gajowy <artur.gajowy@gmail.com> 1536667776 +0200	rebase -i (pick): ConnectiveSortMatcher returns via F
-149435b386bd73624584489a6b422d61b0f33886 fa2e6b5451310a14b835becf36f03359e246d69f Artur Gajowy <artur.gajowy@gmail.com> 1536667776 +0200	rebase -i (pick): GroundSortMatcher returns via F
-fa2e6b5451310a14b835becf36f03359e246d69f b1fdc24ef26032ba93002ad85527a0aeb0cb0a49 Artur Gajowy <artur.gajowy@gmail.com> 1536667805 +0200	rebase -i (pick): GroundSortMatcher returns via F
-b1fdc24ef26032ba93002ad85527a0aeb0cb0a49 135c7a9d288e4306139cffef41bf9094c1d3fb24 Artur Gajowy <artur.gajowy@gmail.com> 1536667806 +0200	rebase -i (pick): MatchSortMatcher returns via F
-135c7a9d288e4306139cffef41bf9094c1d3fb24 3c5f32dd6d87550644cbb0859704c9ac0268a7a8 Artur Gajowy <artur.gajowy@gmail.com> 1536667837 +0200	rebase -i (pick): MatchSortMatcher returns via F
-3c5f32dd6d87550644cbb0859704c9ac0268a7a8 13147290f3dd31d35a6a708380e7e5777c589942 Artur Gajowy <artur.gajowy@gmail.com> 1536667837 +0200	rebase -i (pick): NewSortMatcher returns via F
-13147290f3dd31d35a6a708380e7e5777c589942 b19658945f4e20f947eb8ac9fccc60f16ae2d73a Artur Gajowy <artur.gajowy@gmail.com> 1536667869 +0200	rebase -i (pick): NewSortMatcher returns via F
-b19658945f4e20f947eb8ac9fccc60f16ae2d73a fca2d27322d1d10155f441a1b38ece95ba62ee8c Artur Gajowy <artur.gajowy@gmail.com> 1536667870 +0200	rebase -i (pick): ParSortMatcher returns via F
-fca2d27322d1d10155f441a1b38ece95ba62ee8c f6d9da50c47ac339ef54ea729b1c6066e5d28534 Artur Gajowy <artur.gajowy@gmail.com> 1536667900 +0200	rebase -i (pick): ParSortMatcher returns via F
-f6d9da50c47ac339ef54ea729b1c6066e5d28534 6f878a2f247d9eb4ceb5076461fc8e0a117aa750 Artur Gajowy <artur.gajowy@gmail.com> 1536667900 +0200	rebase -i (pick): ReceiveSortMatcher returns via F
-6f878a2f247d9eb4ceb5076461fc8e0a117aa750 ade1f7bd5c9a075a6b889fd1bae996dcf786eed7 Artur Gajowy <artur.gajowy@gmail.com> 1536667932 +0200	rebase -i (pick): ReceiveSortMatcher returns via F
-ade1f7bd5c9a075a6b889fd1bae996dcf786eed7 3f2bbb0ed10538e51620e0a32aba9d595d3fd0bf Artur Gajowy <artur.gajowy@gmail.com> 1536667932 +0200	rebase -i (pick): SendSortMatcher returns via F
-3f2bbb0ed10538e51620e0a32aba9d595d3fd0bf b93e4b0737728ae9877c085ec899b7a5de446edf Artur Gajowy <artur.gajowy@gmail.com> 1536667959 +0200	rebase -i (pick): SendSortMatcher returns via F
-b93e4b0737728ae9877c085ec899b7a5de446edf 021f1f86520033d694f83832de286e3c54851869 Artur Gajowy <artur.gajowy@gmail.com> 1536667959 +0200	rebase -i (pick): VarSortMatcher returns via F
-021f1f86520033d694f83832de286e3c54851869 e16203c629f11f6bf47bd93066b71f9a3497e736 Artur Gajowy <artur.gajowy@gmail.com> 1536667992 +0200	rebase -i (pick): VarSortMatcher returns via F
-e16203c629f11f6bf47bd93066b71f9a3497e736 983a466971a880834c82ddee0c3853c8a2ccc3ca Artur Gajowy <artur.gajowy@gmail.com> 1536667993 +0200	rebase -i (pick): BoolSortMatcher returns via F
-983a466971a880834c82ddee0c3853c8a2ccc3ca acbd86de40c02f0661205f1c7640fecccdc20580 Artur Gajowy <artur.gajowy@gmail.com> 1536668025 +0200	rebase -i (pick): BoolSortMatcher returns via F
-acbd86de40c02f0661205f1c7640fecccdc20580 3777453dbacfcbe22da880011d435d18e0243bd1 Artur Gajowy <artur.gajowy@gmail.com> 1536668025 +0200	rebase -i (pick): ReceiveBindsSortMatcher returns via F
-3777453dbacfcbe22da880011d435d18e0243bd1 9ff5ea8b13e4254c5397c95dfcc97f40b4aee088 Artur Gajowy <artur.gajowy@gmail.com> 1536668056 +0200	rebase -i (pick): ReceiveBindsSortMatcher returns via F
-9ff5ea8b13e4254c5397c95dfcc97f40b4aee088 24dd50e4ff300bf7ecdd9ab2824e3c9c3d66b7b4 Artur Gajowy <artur.gajowy@gmail.com> 1536668056 +0200	rebase -i (pick): Patch-up usages of Sortable.sortMatch
-24dd50e4ff300bf7ecdd9ab2824e3c9c3d66b7b4 8e4f70fa106b47db064c3ad0bdc6ce3a850917ee Artur Gajowy <artur.gajowy@gmail.com> 1536668088 +0200	rebase -i (pick): Patch-up usages of Sortable.sortMatch
-8e4f70fa106b47db064c3ad0bdc6ce3a850917ee 5713180703bfc54b63ad4b9215f9246bb97de0b2 Artur Gajowy <artur.gajowy@gmail.com> 1536668088 +0200	rebase -i (pick): PrettyPrinter uses Coeval internally
-5713180703bfc54b63ad4b9215f9246bb97de0b2 60f06f4d27d5b4334d647607e5ca5bc7597de07e Artur Gajowy <artur.gajowy@gmail.com> 1536668122 +0200	rebase -i (pick): PrettyPrinter uses Coeval internally
-60f06f4d27d5b4334d647607e5ca5bc7597de07e 894049bac39d8a699d7d8d2ba54fe0ecf2abf271 Artur Gajowy <artur.gajowy@gmail.com> 1536668627 +0200	rebase -i (continue): No more StackOverflowException for PrettyPrint-ing huge string concats
-894049bac39d8a699d7d8d2ba54fe0ecf2abf271 27db7d3c8c02b23598629d787abc1fc6e427dd2c Artur Gajowy <artur.gajowy@gmail.com> 1536668674 +0200	rebase -i (continue): No more StackOverflowException for PrettyPrint-ing huge string concats
-27db7d3c8c02b23598629d787abc1fc6e427dd2c 0da3ba62dcb8f1a054f3be9f1c96c053874c2497 Artur Gajowy <artur.gajowy@gmail.com> 1536668799 +0200	rebase -i (continue): Make the whole project compile by Mateusz Górski
-0da3ba62dcb8f1a054f3be9f1c96c053874c2497 77056d86daf6ca51567da3b49033477b89ed256d Artur Gajowy <artur.gajowy@gmail.com> 1536668830 +0200	rebase -i (continue): Make the whole project compile by Mateusz Górski
-77056d86daf6ca51567da3b49033477b89ed256d 77056d86daf6ca51567da3b49033477b89ed256d Artur Gajowy <artur.gajowy@gmail.com> 1536668830 +0200	rebase -i (finish): returning to refs/heads/huge_string_concat
 77056d86daf6ca51567da3b49033477b89ed256d 1c35571cfe25a44c390ca677c80a03321886d3ca Artur Gajowy <artur.gajowy@gmail.com> 1536669521 +0200	commit: fixup! Patch-up usages of Sortable.sortMatch
 1c35571cfe25a44c390ca677c80a03321886d3ca 90a2f047922f6a34a195b78608c57ce78ca48c18 Artur Gajowy <artur.gajowy@gmail.com> 1536669669 +0200	rebase -i (start): checkout mbm_memo
 90a2f047922f6a34a195b78608c57ce78ca48c18 d3a97d1ba653415151b015ea460973ca2f005e0b Artur Gajowy <artur.gajowy@gmail.com> 1536669669 +0200	rebase -i (pick): ScoreTree contravariant
@@ -1462,3 +1264,224 @@ a41c860675180ff64b73986eaa162fc66902a8ec 3668bcdc70ce55f9296b9d52e9cc7a1491e6600
 3a95b5334ca7a10e8ed9e456467e5a7fbac06bdf ece865cd0aa993b0433254a4e05d350f80f4e3ee Artur Gajowy <artur.gajowy@gmail.com> 1538780616 +0200	checkout: moving from par_sorter_fix_and_pretty to staksafe_hashcode
 ece865cd0aa993b0433254a4e05d350f80f4e3ee e5187d9052a20c7b260edb24795909928e335421 Artur Gajowy <artur.gajowy@gmail.com> 1538780751 +0200	reset: moving to fofo
 e5187d9052a20c7b260edb24795909928e335421 1e8d83035b575a719ac527edcaf59f8b20021b19 Artur Gajowy <artur.gajowy@gmail.com> 1538780885 +0200	commit: Diff
+1e8d83035b575a719ac527edcaf59f8b20021b19 0f7dd9f03c4ce1f0aec73109f217d9dc26803e46 Artur Gajowy <artur.gajowy@gmail.com> 1538997616 +0200	rebase -i (start): checkout local_changes
+0f7dd9f03c4ce1f0aec73109f217d9dc26803e46 4158a1b7242d34d48da270700b587611e2fe5e57 Artur Gajowy <artur.gajowy@gmail.com> 1538997616 +0200	rebase -i (pick): Diff
+4158a1b7242d34d48da270700b587611e2fe5e57 4158a1b7242d34d48da270700b587611e2fe5e57 Artur Gajowy <artur.gajowy@gmail.com> 1538997616 +0200	rebase -i (finish): returning to refs/heads/staksafe_hashcode
+4158a1b7242d34d48da270700b587611e2fe5e57 bf31535b457302a1de25ad7db66c5ad3b7156120 Artur Gajowy <artur.gajowy@gmail.com> 1538997693 +0200	rebase -i (start): checkout local_changes
+bf31535b457302a1de25ad7db66c5ad3b7156120 a40e23f26942d1d83c14fd155cad311c60841a7d Artur Gajowy <artur.gajowy@gmail.com> 1538997693 +0200	rebase -i (pick): Diff
+a40e23f26942d1d83c14fd155cad311c60841a7d 124a534931e7bb9af124b462f7cfbc6d9a5673d2 Artur Gajowy <artur.gajowy@gmail.com> 1538997693 +0200	rebase -i (pick): WIP
+124a534931e7bb9af124b462f7cfbc6d9a5673d2 d5dc6df12082744fe7430cdb65a291506cb59bf6 Artur Gajowy <artur.gajowy@gmail.com> 1538997694 +0200	rebase -i (fixup):  This is a combination of 2 commits.
+d5dc6df12082744fe7430cdb65a291506cb59bf6 134e732d3456b67457b810e3daded6480c20b217 Artur Gajowy <artur.gajowy@gmail.com> 1538997694 +0200	rebase -i (fixup):  This is a combination of 3 commits.
+134e732d3456b67457b810e3daded6480c20b217 ae83f249360e4bc5938e44579444989744e1e628 Artur Gajowy <artur.gajowy@gmail.com> 1538997694 +0200	rebase -i (fixup): WIP
+ae83f249360e4bc5938e44579444989744e1e628 ae83f249360e4bc5938e44579444989744e1e628 Artur Gajowy <artur.gajowy@gmail.com> 1538997694 +0200	rebase -i (finish): returning to refs/heads/staksafe_hashcode
+ae83f249360e4bc5938e44579444989744e1e628 ae3813456e0b2e065919e2be45d4843e9dc1c8a6 Artur Gajowy <artur.gajowy@gmail.com> 1538997795 +0200	checkout: moving from staksafe_hashcode to dev
+ae3813456e0b2e065919e2be45d4843e9dc1c8a6 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997808 +0200	pull upstream dev: Fast-forward
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 2177d5fe2308bd16f6d5f0ed66713c116a7046fc Artur Gajowy <artur.gajowy@gmail.com> 1538997808 +0200	checkout: moving from dev to local_changes
+2177d5fe2308bd16f6d5f0ed66713c116a7046fc 2177d5fe2308bd16f6d5f0ed66713c116a7046fc Artur Gajowy <artur.gajowy@gmail.com> 1538997811 +0200	rebase -i (start): checkout local_changes
+2177d5fe2308bd16f6d5f0ed66713c116a7046fc de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997812 +0200	rebase -i (start): checkout dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 5d6acefa69448101314b10364f8c196e61cf3f85 Artur Gajowy <artur.gajowy@gmail.com> 1538997812 +0200	rebase -i (pick): Add scalafmt pre-commit hook
+5d6acefa69448101314b10364f8c196e61cf3f85 79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 Artur Gajowy <artur.gajowy@gmail.com> 1538997813 +0200	rebase -i (pick): WIP turn off scalafmt because git hook.
+79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 Artur Gajowy <artur.gajowy@gmail.com> 1538997813 +0200	rebase -i (finish): returning to refs/heads/local_changes
+79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 ae83f249360e4bc5938e44579444989744e1e628 Artur Gajowy <artur.gajowy@gmail.com> 1538997822 +0200	checkout: moving from local_changes to staksafe_hashcode
+ae83f249360e4bc5938e44579444989744e1e628 ae83f249360e4bc5938e44579444989744e1e628 Artur Gajowy <artur.gajowy@gmail.com> 1538997830 +0200	rebase -i (start): checkout staksafe_hashcode
+ae83f249360e4bc5938e44579444989744e1e628 79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 Artur Gajowy <artur.gajowy@gmail.com> 1538997834 +0200	rebase -i (start): checkout local_changes
+79ba178086cbb16ba9cc5c280fd46bd5c3cc5490 a6cb04e8c97899f64108eb717b0598d83d3d7f96 Artur Gajowy <artur.gajowy@gmail.com> 1538997834 +0200	rebase -i (pick): FIXME move the PrettyPrinter to models - MOVE TESTS TOO!!
+a6cb04e8c97899f64108eb717b0598d83d3d7f96 83f951273326305362f73569786dbc8fbabe7448 Artur Gajowy <artur.gajowy@gmail.com> 1538997909 +0200	rebase -i (pick): WIP Add HashM typeclass for stacksafe hashCode
+83f951273326305362f73569786dbc8fbabe7448 11ce7fd7f858022e66c62312a8ffc8faee475a94 Artur Gajowy <artur.gajowy@gmail.com> 1538997910 +0200	rebase -i (pick): Add scalapb.compilerplugin as model's dependency
+11ce7fd7f858022e66c62312a8ffc8faee475a94 e9ee67bbbe971461f7df9123c4e38f3dd118a135 Artur Gajowy <artur.gajowy@gmail.com> 1538997910 +0200	rebase -i (pick): WIP Add ProtoM
+e9ee67bbbe971461f7df9123c4e38f3dd118a135 e71d072567450767ba3bc71734bcc50aa21306ec Artur Gajowy <artur.gajowy@gmail.com> 1538997910 +0200	rebase -i (pick): Use stacksafe serializedSize in Chargable and Costs
+e71d072567450767ba3bc71734bcc50aa21306ec 53d2bb8b3bc831a449c212f6250da6c01d2df09d Artur Gajowy <artur.gajowy@gmail.com> 1538997910 +0200	rebase -i (pick): WIP Add StacksafeScalapbGenerator
+53d2bb8b3bc831a449c212f6250da6c01d2df09d 0bbc1bdac65d1815ecc98577dcc1d7a97d9de7bd Artur Gajowy <artur.gajowy@gmail.com> 1538997910 +0200	rebase -i (pick): WIP FIXME Add custom stacksafe hashCode to proto-generated AST classes
+0bbc1bdac65d1815ecc98577dcc1d7a97d9de7bd 4d721baee9d8e19dae828ffdd394022a1fb10e87 Artur Gajowy <artur.gajowy@gmail.com> 1538997911 +0200	rebase -i (pick): WIP StackSafety spec mods
+4d721baee9d8e19dae828ffdd394022a1fb10e87 f6b95c8b9f3bc759255ceddc91d1a23cd56e8e00 Artur Gajowy <artur.gajowy@gmail.com> 1538997911 +0200	rebase -i (pick): Diff
+f6b95c8b9f3bc759255ceddc91d1a23cd56e8e00 2a0762b0b933af24b82f0de1e5c12b16b21822a4 Artur Gajowy <artur.gajowy@gmail.com> 1538997911 +0200	rebase -i (pick): WIP
+2a0762b0b933af24b82f0de1e5c12b16b21822a4 2a0762b0b933af24b82f0de1e5c12b16b21822a4 Artur Gajowy <artur.gajowy@gmail.com> 1538997911 +0200	rebase -i (finish): returning to refs/heads/staksafe_hashcode
+2a0762b0b933af24b82f0de1e5c12b16b21822a4 13fda5482c531e210c0e4e84826046bb7fd6b717 Artur Gajowy <artur.gajowy@gmail.com> 1538997935 +0200	checkout: moving from staksafe_hashcode to recursion_schemes
+13fda5482c531e210c0e4e84826046bb7fd6b717 c20d8dcbc907ccc0ad78edca2791f08198fe7a13 Artur Gajowy <artur.gajowy@gmail.com> 1538997940 +0200	checkout: moving from recursion_schemes to pre_commit_hook
+c20d8dcbc907ccc0ad78edca2791f08198fe7a13 60c3706c4067414b9a9e7fd07f8f3927b28a0283 Artur Gajowy <artur.gajowy@gmail.com> 1538997948 +0200	checkout: moving from pre_commit_hook to rho_parse
+60c3706c4067414b9a9e7fd07f8f3927b28a0283 60c3706c4067414b9a9e7fd07f8f3927b28a0283 Artur Gajowy <artur.gajowy@gmail.com> 1538997955 +0200	rebase -i (start): checkout rho_parse
+60c3706c4067414b9a9e7fd07f8f3927b28a0283 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997957 +0200	rebase -i (start): checkout dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 562925ec8e2a4f26ddbd3c0a6bd1903e9e2a8dea Artur Gajowy <artur.gajowy@gmail.com> 1538997957 +0200	rebase -i (pick): Add MatchTest.parse for easier expression of more readable test cases
+562925ec8e2a4f26ddbd3c0a6bd1903e9e2a8dea fc6e1426b720b856f14404974e47b232f946c539 Artur Gajowy <artur.gajowy@gmail.com> 1538997957 +0200	rebase -i (pick): Add rudimentary support for bound variables in MatchTest.parse
+fc6e1426b720b856f14404974e47b232f946c539 fc6e1426b720b856f14404974e47b232f946c539 Artur Gajowy <artur.gajowy@gmail.com> 1538997957 +0200	rebase -i (finish): returning to refs/heads/rho_parse
+fc6e1426b720b856f14404974e47b232f946c539 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997970 +0200	checkout: moving from rho_parse to dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 13fda5482c531e210c0e4e84826046bb7fd6b717 Artur Gajowy <artur.gajowy@gmail.com> 1538997971 +0200	checkout: moving from dev to recursion_schemes
+13fda5482c531e210c0e4e84826046bb7fd6b717 13fda5482c531e210c0e4e84826046bb7fd6b717 Artur Gajowy <artur.gajowy@gmail.com> 1538997974 +0200	rebase -i (start): checkout recursion_schemes
+13fda5482c531e210c0e4e84826046bb7fd6b717 2a0762b0b933af24b82f0de1e5c12b16b21822a4 Artur Gajowy <artur.gajowy@gmail.com> 1538997976 +0200	rebase -i (start): checkout staksafe_hashcode
+2a0762b0b933af24b82f0de1e5c12b16b21822a4 39efe5ddbe7bad70dd2e1495fc22993125244387 Artur Gajowy <artur.gajowy@gmail.com> 1538997976 +0200	rebase -i (pick): WIP Recursion schemes for proto (de)serialization
+39efe5ddbe7bad70dd2e1495fc22993125244387 39efe5ddbe7bad70dd2e1495fc22993125244387 Artur Gajowy <artur.gajowy@gmail.com> 1538997976 +0200	rebase -i (finish): returning to refs/heads/recursion_schemes
+39efe5ddbe7bad70dd2e1495fc22993125244387 c20d8dcbc907ccc0ad78edca2791f08198fe7a13 Artur Gajowy <artur.gajowy@gmail.com> 1538997983 +0200	checkout: moving from recursion_schemes to pre_commit_hook
+c20d8dcbc907ccc0ad78edca2791f08198fe7a13 c20d8dcbc907ccc0ad78edca2791f08198fe7a13 Artur Gajowy <artur.gajowy@gmail.com> 1538997985 +0200	rebase -i (start): checkout pre_commit_hook
+c20d8dcbc907ccc0ad78edca2791f08198fe7a13 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997986 +0200	rebase -i (start): checkout dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 0a375b1b615dc441c8056434a579c8cda4bc536f Artur Gajowy <artur.gajowy@gmail.com> 1538997986 +0200	rebase -i (pick): Add scalafmt pre-commit hook
+0a375b1b615dc441c8056434a579c8cda4bc536f 0a375b1b615dc441c8056434a579c8cda4bc536f Artur Gajowy <artur.gajowy@gmail.com> 1538997986 +0200	rebase -i (finish): returning to refs/heads/pre_commit_hook
+0a375b1b615dc441c8056434a579c8cda4bc536f 2a0762b0b933af24b82f0de1e5c12b16b21822a4 Artur Gajowy <artur.gajowy@gmail.com> 1538998025 +0200	checkout: moving from pre_commit_hook to staksafe_hashcode
+2a0762b0b933af24b82f0de1e5c12b16b21822a4 90f794a80fe1c6a3086284b623dc071a29b23411 Artur Gajowy <artur.gajowy@gmail.com> 1538999682 +0200	commit: fixup! Diff
+90f794a80fe1c6a3086284b623dc071a29b23411 d2600e42412f4f4625bd415c80d3639e0582b09a Artur Gajowy <artur.gajowy@gmail.com> 1539001380 +0200	commit: WIP Serialization seems to work 1-1
+d2600e42412f4f4625bd415c80d3639e0582b09a 6772894bd6627fd2e999117320ad301ba5dfd0f3 Artur Gajowy <artur.gajowy@gmail.com> 1539003783 +0200	commit: Extract StackSafetySpec companion for reuse across tests
+6772894bd6627fd2e999117320ad301ba5dfd0f3 1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 Artur Gajowy <artur.gajowy@gmail.com> 1539066130 +0200	commit: WIP
+1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 ee04681294bf365ceaeda3521743c3776c0d82ee Artur Gajowy <artur.gajowy@gmail.com> 1539066155 +0200	checkout: moving from staksafe_hashcode to FETCH_HEAD
+ee04681294bf365ceaeda3521743c3776c0d82ee de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1539066714 +0200	checkout: moving from ee04681294bf365ceaeda3521743c3776c0d82ee to dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1539066773 +0200	checkout: moving from dev to dev
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 Artur Gajowy <artur.gajowy@gmail.com> 1539066786 +0200	pull: Fast-forward
+c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 6d626ea3a1f49b1c8629f7ffbba3a3e4c1e24181 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: checkout 6d626ea3a1f49b1c8629f7ffbba3a3e4c1e24181
+6d626ea3a1f49b1c8629f7ffbba3a3e4c1e24181 e5247b52fa598d560770f0145c4cb0b4c4ef2176 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Prohibit interception of standard output and error
+e5247b52fa598d560770f0145c4cb0b4c4ef2176 1b721330441b5a61e28ec62461953d09b322e42d Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Refactor error message into val in tests
+1b721330441b5a61e28ec62461953d09b322e42d 195734256a94bc619e2b07bfb8177bd9b8b72dd4 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Change to minimal test cases and normalized input
+195734256a94bc619e2b07bfb8177bd9b8b72dd4 668d966d9a940f4203005c02da62f0918379dda2 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Revert back to end-to-end test cases
+668d966d9a940f4203005c02da62f0918379dda2 893ecf97059e356ec2b3a4b629fbd104e6a99166 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Rholang: Add failing test.
+893ecf97059e356ec2b3a4b629fbd104e6a99166 c0874deef830cc61b76c85381c48b020a64f7571 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: RSpace: Introduce `ContResult` data type representing matched continuation.
+c0874deef830cc61b76c85381c48b020a64f7571 f9662ea4956c014c1ed324d549ebd37cddaa97bc Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Rholang: Fix `SystemProcesses` after changing the return type of produce and consume.
+f9662ea4956c014c1ed324d549ebd37cddaa97bc 1bfdd5b5473f10f6b421839fc73bd748a7607898 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Rholang: Fix ChargingRSpace to refund properly for clearing the tuplespace.
+1bfdd5b5473f10f6b421839fc73bd748a7607898 d74e470154ddcd2b619149a05df30ba0ffdb81c2 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Rholang: Make initial phlo limit smaller, Integer.MAX_VALUE instead of Long.MaxValue.
+d74e470154ddcd2b619149a05df30ba0ffdb81c2 66f9c096445d2ffa21e036e59284b652138c8b97 Artur Gajowy <artur.gajowy@gmail.com> 1539066827 +0200	rebase: Make rho:registry:lookup and rho:registry:insertArbitrary write-only and refactor tests
+66f9c096445d2ffa21e036e59284b652138c8b97 66f9c096445d2ffa21e036e59284b652138c8b97 Artur Gajowy <artur.gajowy@gmail.com> 1539066829 +0200	rebase finished: returning to refs/heads/dev
+66f9c096445d2ffa21e036e59284b652138c8b97 c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 Artur Gajowy <artur.gajowy@gmail.com> 1539068900 +0200	checkout: moving from dev to upstream/dev
+c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 Artur Gajowy <artur.gajowy@gmail.com> 1539093598 +0200	checkout: moving from c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 to staksafe_hashcode
+1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 66f9c096445d2ffa21e036e59284b652138c8b97 Artur Gajowy <artur.gajowy@gmail.com> 1539093682 +0200	checkout: moving from staksafe_hashcode to dev
+66f9c096445d2ffa21e036e59284b652138c8b97 da1d7d667b68543d25a989f1108d4feae056ae37 Artur Gajowy <artur.gajowy@gmail.com> 1539093690 +0200	merge upstream/dev: Merge made by the 'recursive' strategy.
+da1d7d667b68543d25a989f1108d4feae056ae37 42ed384c129217ba2b8b28e9d424dff11bd46ea0 Artur Gajowy <artur.gajowy@gmail.com> 1539093709 +0200	reset: moving to upstream/dev
+42ed384c129217ba2b8b28e9d424dff11bd46ea0 29f6af7decaeb2635ec09675bde272bab90fddbc Artur Gajowy <artur.gajowy@gmail.com> 1539102057 +0200	commit: WIP Pretty: don't use named parameters when all parameters are passed
+29f6af7decaeb2635ec09675bde272bab90fddbc d86c8e04436118dedb14938190adace1db273973 Artur Gajowy <artur.gajowy@gmail.com> 1539102121 +0200	checkout: moving from dev to d86c8e04436118dedb14938190adace1db273973
+d86c8e04436118dedb14938190adace1db273973 29f6af7decaeb2635ec09675bde272bab90fddbc Artur Gajowy <artur.gajowy@gmail.com> 1539114254 +0200	checkout: moving from d86c8e04436118dedb14938190adace1db273973 to dev
+29f6af7decaeb2635ec09675bde272bab90fddbc e963a25742769cf92709e30b79a1c43b22e313e2 Artur Gajowy <artur.gajowy@gmail.com> 1539117332 +0200	commit: Remove Env.{merge, rename} that were only used in tests
+e963a25742769cf92709e30b79a1c43b22e313e2 c53a4c17a147203d933e2b5fde03749a4b69857e Artur Gajowy <artur.gajowy@gmail.com> 1539117637 +0200	commit: Remove unused overloads of Env#put
+c53a4c17a147203d933e2b5fde03749a4b69857e 29f6af7decaeb2635ec09675bde272bab90fddbc Artur Gajowy <artur.gajowy@gmail.com> 1539117646 +0200	rebase -i (start): checkout 29f6af7decaeb2635ec09675bde272bab90fddbc
+29f6af7decaeb2635ec09675bde272bab90fddbc e963a25742769cf92709e30b79a1c43b22e313e2 Artur Gajowy <artur.gajowy@gmail.com> 1539117646 +0200	rebase -i (reword): updating HEAD
+e963a25742769cf92709e30b79a1c43b22e313e2 3ba8e4832489f4c158984ae86c8214a10876d6cb Artur Gajowy <artur.gajowy@gmail.com> 1539117647 +0200	rebase -i (reword): Remove Env#{merge, rename} that were only used in tests
+3ba8e4832489f4c158984ae86c8214a10876d6cb 83135eeaecb6fe459b4dd1174ac40bb04d00be3b Artur Gajowy <artur.gajowy@gmail.com> 1539117647 +0200	rebase -i (pick): Remove unused overloads of Env#put
+83135eeaecb6fe459b4dd1174ac40bb04d00be3b 83135eeaecb6fe459b4dd1174ac40bb04d00be3b Artur Gajowy <artur.gajowy@gmail.com> 1539117647 +0200	rebase -i (finish): returning to refs/heads/dev
+83135eeaecb6fe459b4dd1174ac40bb04d00be3b d85c9b21e3e3c29f59c892e89e7d7ad50f39941c Artur Gajowy <artur.gajowy@gmail.com> 1539117788 +0200	commit: Make Env's constructor private
+d85c9b21e3e3c29f59c892e89e7d7ad50f39941c 79221b06d93464d4e0063c9fed27824b82a961b7 Artur Gajowy <artur.gajowy@gmail.com> 1539206357 +0200	commit: WIP PrettySpec!?
+79221b06d93464d4e0063c9fed27824b82a961b7 208cfe92e191ccff7a803882d22bc81e6992c738 Artur Gajowy <artur.gajowy@gmail.com> 1539207470 +0200	commit: Add Shrink instances for rholang AST classes
+208cfe92e191ccff7a803882d22bc81e6992c738 060de14ed18c79ba6146e235ab7c9e0aaa503999 Artur Gajowy <artur.gajowy@gmail.com> 1539207503 +0200	commit: Enable counter-example shrinking for RhoTypesTest
+060de14ed18c79ba6146e235ab7c9e0aaa503999 1e693dd90229c5a005cc767d37cc4061c308cb51 Artur Gajowy <artur.gajowy@gmail.com> 1539207641 +0200	commit: Improve Pretty instance for Coeval
+1e693dd90229c5a005cc767d37cc4061c308cb51 6c07fc3f4cf287357827c347061446231b7a3f63 Artur Gajowy <artur.gajowy@gmail.com> 1539256438 +0200	commit: Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+6c07fc3f4cf287357827c347061446231b7a3f63 56cae4acb94d483dc5c3d161f16c02eb35c76084 Artur Gajowy <artur.gajowy@gmail.com> 1539257126 +0200	commit: Fix a bug where connectives substitution discarded most of the Par
+56cae4acb94d483dc5c3d161f16c02eb35c76084 93b7062177bff3bad1dd5ae47a2736e5aff7abb9 Artur Gajowy <artur.gajowy@gmail.com> 1539261056 +0200	commit: Add test for the PrimeCheck contract
+93b7062177bff3bad1dd5ae47a2736e5aff7abb9 8f9542cddcd6a6d859148ec72b4334fb862caf8f Artur Gajowy <artur.gajowy@gmail.com> 1539261297 +0200	commit: fixup! Pretty: don't use named parameters when all parameters are passed
+8f9542cddcd6a6d859148ec72b4334fb862caf8f 754703aee0fb8375dc981147b03566caf4a1ab24 Artur Gajowy <artur.gajowy@gmail.com> 1539261375 +0200	rebase -i (start): checkout upstream/dev
+754703aee0fb8375dc981147b03566caf4a1ab24 dd18a1fdf67806dadbdbd7488dc11f7edbac4f37 Artur Gajowy <artur.gajowy@gmail.com> 1539261375 +0200	rebase -i (pick): Remove Env#{merge, rename} that were only used in tests
+dd18a1fdf67806dadbdbd7488dc11f7edbac4f37 8f9542cddcd6a6d859148ec72b4334fb862caf8f Artur Gajowy <artur.gajowy@gmail.com> 1539261439 +0200	rebase: aborting
+8f9542cddcd6a6d859148ec72b4334fb862caf8f 754703aee0fb8375dc981147b03566caf4a1ab24 Artur Gajowy <artur.gajowy@gmail.com> 1539261467 +0200	rebase -i (start): checkout upstream/dev
+754703aee0fb8375dc981147b03566caf4a1ab24 9b3bc5dd4d275f1daf64edd89739cac15280e1c2 Artur Gajowy <artur.gajowy@gmail.com> 1539261467 +0200	rebase -i (pick): WIP Pretty: don't use named parameters when all parameters are passed
+9b3bc5dd4d275f1daf64edd89739cac15280e1c2 531c2198ae604b7c6d138dbc7a31b125e12e93bd Artur Gajowy <artur.gajowy@gmail.com> 1539261476 +0200	rebase -i (continue): WIP Pretty: don't use named parameters when all parameters are passed
+531c2198ae604b7c6d138dbc7a31b125e12e93bd ecbe4e1b77b52e06f3bd1bcd317f4ec857f91d07 Artur Gajowy <artur.gajowy@gmail.com> 1539261478 +0200	rebase -i (pick): Remove Env#{merge, rename} that were only used in tests
+ecbe4e1b77b52e06f3bd1bcd317f4ec857f91d07 f743325acb82e0d01849e88cd3f04eeab0e09196 Artur Gajowy <artur.gajowy@gmail.com> 1539261498 +0200	rebase -i (continue): Remove unused overloads of Env#put
+f743325acb82e0d01849e88cd3f04eeab0e09196 0ad32027756b226f36d10ea8e36db9589ba7101d Artur Gajowy <artur.gajowy@gmail.com> 1539261500 +0200	rebase -i (pick): Make Env's constructor private
+0ad32027756b226f36d10ea8e36db9589ba7101d 6ff7f8caff8ae6ca41d514ccebdc6dca345d5559 Artur Gajowy <artur.gajowy@gmail.com> 1539261500 +0200	rebase -i (pick): WIP PrettySpec!?
+6ff7f8caff8ae6ca41d514ccebdc6dca345d5559 742d930771a91a4a2ce423075fb818d13e00cd37 Artur Gajowy <artur.gajowy@gmail.com> 1539261500 +0200	rebase -i (pick): Add Shrink instances for rholang AST classes
+742d930771a91a4a2ce423075fb818d13e00cd37 9d7c5c15965da3fdfca306c041a3cd668c91a59b Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (pick): Enable counter-example shrinking for RhoTypesTest
+9d7c5c15965da3fdfca306c041a3cd668c91a59b 334f8fd1f2e2012cf3b5ad35bf06b93cd8b29322 Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (pick): Improve Pretty instance for Coeval
+334f8fd1f2e2012cf3b5ad35bf06b93cd8b29322 29b810f2d6aac7d69377c6c452646743e003b11c Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+29b810f2d6aac7d69377c6c452646743e003b11c a5175a26f6a53255afbc1a5623d8af2b66048473 Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+a5175a26f6a53255afbc1a5623d8af2b66048473 1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd 1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (finish): returning to refs/heads/dev
+1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd 754703aee0fb8375dc981147b03566caf4a1ab24 Artur Gajowy <artur.gajowy@gmail.com> 1539261559 +0200	rebase -i (start): checkout upstream/dev
+754703aee0fb8375dc981147b03566caf4a1ab24 3724d82bf2adb908a05e1cce377a220992a84af5 Artur Gajowy <artur.gajowy@gmail.com> 1539261559 +0200	rebase -i (pick): Remove Env#{merge, rename} that were only used in tests
+3724d82bf2adb908a05e1cce377a220992a84af5 bc5344a5f8b1872ab5b37479f15cf1256b5f0cdf Artur Gajowy <artur.gajowy@gmail.com> 1539261619 +0200	rebase -i (continue): Remove unused overloads of Env#put
+bc5344a5f8b1872ab5b37479f15cf1256b5f0cdf 93b260a3d5bebe8087b759e38e05d978a88e0701 Artur Gajowy <artur.gajowy@gmail.com> 1539261633 +0200	rebase -i (pick): Make Env's constructor private
+93b260a3d5bebe8087b759e38e05d978a88e0701 1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd Artur Gajowy <artur.gajowy@gmail.com> 1539261653 +0200	rebase: aborting
+1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd 754703aee0fb8375dc981147b03566caf4a1ab24 Artur Gajowy <artur.gajowy@gmail.com> 1539261808 +0200	rebase -i (start): checkout upstream/dev
+754703aee0fb8375dc981147b03566caf4a1ab24 a9b22c332ceeeaff7b1f58d437ee5133fe3aa089 Artur Gajowy <artur.gajowy@gmail.com> 1539261808 +0200	rebase -i (pick): Remove Env#{merge, rename} that were only used in tests
+a9b22c332ceeeaff7b1f58d437ee5133fe3aa089 4a77d47d379d94d980aad7053c914396a014b9ab Artur Gajowy <artur.gajowy@gmail.com> 1539261826 +0200	rebase -i (continue): Remove unused overloads of Env#put
+4a77d47d379d94d980aad7053c914396a014b9ab 8cb3ea9d79b42ef781e461769c935cebf1eaa68c Artur Gajowy <artur.gajowy@gmail.com> 1539261829 +0200	rebase -i (pick): Make Env's constructor private
+8cb3ea9d79b42ef781e461769c935cebf1eaa68c 43e2ac4e74e58b416d6d516af6e60c451273b8b3 Artur Gajowy <artur.gajowy@gmail.com> 1539261829 +0200	rebase -i (pick): Add Shrink instances for rholang AST classes
+43e2ac4e74e58b416d6d516af6e60c451273b8b3 10c361b8552a57fcd101422b2039d1510a17827e Artur Gajowy <artur.gajowy@gmail.com> 1539261829 +0200	rebase -i (pick): Enable counter-example shrinking for RhoTypesTest
+10c361b8552a57fcd101422b2039d1510a17827e 2fc12c899273293ed00f24163f5b52118c6b283a Artur Gajowy <artur.gajowy@gmail.com> 1539261829 +0200	rebase -i (reword): WIP Pretty: don't use named parameters when all parameters are passed
+2fc12c899273293ed00f24163f5b52118c6b283a 0051b5c9c1230bed1fc0319bf744ca086abe376d Artur Gajowy <artur.gajowy@gmail.com> 1539261829 +0200	rebase -i (reword): Pretty: don't use named parameters when all parameters are passed
+0051b5c9c1230bed1fc0319bf744ca086abe376d 51b39c87fcb79c18539ad63c3c82d8cfa601e4f1 Artur Gajowy <artur.gajowy@gmail.com> 1539261837 +0200	rebase -i (pick): Improve Pretty instance for Coeval
+51b39c87fcb79c18539ad63c3c82d8cfa601e4f1 cc029c73887335395bc7c475248ca51a0bfb4092 Artur Gajowy <artur.gajowy@gmail.com> 1539261837 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+cc029c73887335395bc7c475248ca51a0bfb4092 cb818cfabc64bd74b3609d536c63ac561eb1705d Artur Gajowy <artur.gajowy@gmail.com> 1539261837 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+cb818cfabc64bd74b3609d536c63ac561eb1705d 0baa8d2ec221ba09eb4ee85fd6821f02842b5126 Artur Gajowy <artur.gajowy@gmail.com> 1539261838 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+0baa8d2ec221ba09eb4ee85fd6821f02842b5126 80cbbd0acea7ec9b0ce7c31328ebc690976db0fb Artur Gajowy <artur.gajowy@gmail.com> 1539261838 +0200	rebase -i (pick): WIP PrettySpec!?
+80cbbd0acea7ec9b0ce7c31328ebc690976db0fb 80cbbd0acea7ec9b0ce7c31328ebc690976db0fb Artur Gajowy <artur.gajowy@gmail.com> 1539261838 +0200	rebase -i (finish): returning to refs/heads/dev
+80cbbd0acea7ec9b0ce7c31328ebc690976db0fb 0051b5c9c1230bed1fc0319bf744ca086abe376d Artur Gajowy <artur.gajowy@gmail.com> 1539261876 +0200	rebase -i (start): checkout 0051b5c9c1230bed1fc0319bf744ca086abe376d
+0051b5c9c1230bed1fc0319bf744ca086abe376d 51b39c87fcb79c18539ad63c3c82d8cfa601e4f1 Artur Gajowy <artur.gajowy@gmail.com> 1539261876 +0200	rebase -i (reword): updating HEAD
+51b39c87fcb79c18539ad63c3c82d8cfa601e4f1 6c04dd7464b35a30f6b4c44f6c5cc45b8b6cd9e5 Artur Gajowy <artur.gajowy@gmail.com> 1539261876 +0200	rebase -i (reword): Pretty: Improve instance for Coeval
+6c04dd7464b35a30f6b4c44f6c5cc45b8b6cd9e5 8b62c57502f99830a4d43d14ef56441ddb9cfad1 Artur Gajowy <artur.gajowy@gmail.com> 1539261876 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+8b62c57502f99830a4d43d14ef56441ddb9cfad1 c5afbb94d4a47b6cc8afe9d10743542a2bbdc80d Artur Gajowy <artur.gajowy@gmail.com> 1539261876 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+c5afbb94d4a47b6cc8afe9d10743542a2bbdc80d 411c670a1cbc1825195f2710d4e1200162e7b346 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+411c670a1cbc1825195f2710d4e1200162e7b346 d4af4a9a8ef28cafe5394f756395097c03a45120 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	rebase -i (pick): WIP PrettySpec!?
+d4af4a9a8ef28cafe5394f756395097c03a45120 d4af4a9a8ef28cafe5394f756395097c03a45120 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	rebase -i (finish): returning to refs/heads/dev
+d4af4a9a8ef28cafe5394f756395097c03a45120 d4af4a9a8ef28cafe5394f756395097c03a45120 Artur Gajowy <artur.gajowy@gmail.com> 1539261915 +0200	checkout: moving from dev to pretty_spec
+d4af4a9a8ef28cafe5394f756395097c03a45120 411c670a1cbc1825195f2710d4e1200162e7b346 Artur Gajowy <artur.gajowy@gmail.com> 1539261930 +0200	checkout: moving from pretty_spec to normalizer_connectives_discard_bug
+411c670a1cbc1825195f2710d4e1200162e7b346 bea26a20a50904bd79e3d04538806e067700713c Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	filter-branch: rewrite
+bea26a20a50904bd79e3d04538806e067700713c 61e940374b7f68ed7bc4a085837e16d299ce82e7 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	filter-branch: rewrite
+61e940374b7f68ed7bc4a085837e16d299ce82e7 c10635db811cd211b0acb202af856c29e80a2f46 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	filter-branch: rewrite
+c10635db811cd211b0acb202af856c29e80a2f46 a9b22c332ceeeaff7b1f58d437ee5133fe3aa089 Artur Gajowy <artur.gajowy@gmail.com> 1539262035 +0200	rebase -i (start): checkout upstream/dev
+a9b22c332ceeeaff7b1f58d437ee5133fe3aa089 ed190ceb3e184f672ba2c46b9be46be147b8b196 Artur Gajowy <artur.gajowy@gmail.com> 1539262035 +0200	rebase -i (start): checkout upstream/dev: Remove Env#{merge, rename} that were only used in tests
+ed190ceb3e184f672ba2c46b9be46be147b8b196 0a498f8c5a59216a7adad0a2034aff326e10102c Artur Gajowy <artur.gajowy@gmail.com> 1539262037 +0200	rebase -i (pick): Remove unused overloads of Env#put
+0a498f8c5a59216a7adad0a2034aff326e10102c a2073b43c3e893b35347d66cf02631152da0a2e7 Artur Gajowy <artur.gajowy@gmail.com> 1539262037 +0200	rebase -i (pick): Remove unused overloads of Env#put
+a2073b43c3e893b35347d66cf02631152da0a2e7 709f6aa6fd7842ae1ce9b3115468d3f252d0a5da Artur Gajowy <artur.gajowy@gmail.com> 1539262038 +0200	rebase -i (pick): Make Env's constructor private
+709f6aa6fd7842ae1ce9b3115468d3f252d0a5da 85617213252609ff8ac69f1d5b01ec0cfd4313f9 Artur Gajowy <artur.gajowy@gmail.com> 1539262038 +0200	rebase -i (pick): Make Env's constructor private
+85617213252609ff8ac69f1d5b01ec0cfd4313f9 b734b8a0d5ea2c7a313b173ca983bd3e052ab8d4 Artur Gajowy <artur.gajowy@gmail.com> 1539262040 +0200	rebase -i (pick): Add Shrink instances for rholang AST classes
+b734b8a0d5ea2c7a313b173ca983bd3e052ab8d4 8f5383dbbb99972a078f115c3c8a7aaca67edbc8 Artur Gajowy <artur.gajowy@gmail.com> 1539262040 +0200	rebase -i (pick): Add Shrink instances for rholang AST classes
+8f5383dbbb99972a078f115c3c8a7aaca67edbc8 6043e38622170f7eec58210acefebad9a69b34d4 Artur Gajowy <artur.gajowy@gmail.com> 1539262041 +0200	rebase -i (pick): Enable counter-example shrinking for RhoTypesTest
+6043e38622170f7eec58210acefebad9a69b34d4 dd8c8d7eae8453f84e75d9caba6afeb6f90b162e Artur Gajowy <artur.gajowy@gmail.com> 1539262041 +0200	rebase -i (pick): Enable counter-example shrinking for RhoTypesTest
+dd8c8d7eae8453f84e75d9caba6afeb6f90b162e 94f5816abe5ede7ca40232b7369a803ec2942ab2 Artur Gajowy <artur.gajowy@gmail.com> 1539262042 +0200	rebase -i (pick): Pretty: don't use named parameters when all parameters are passed
+94f5816abe5ede7ca40232b7369a803ec2942ab2 41cad8966dbc7c5923f5b66d7f037c5911ad58bb Artur Gajowy <artur.gajowy@gmail.com> 1539262043 +0200	rebase -i (pick): Pretty: don't use named parameters when all parameters are passed
+41cad8966dbc7c5923f5b66d7f037c5911ad58bb 2618ad99235feecc41a75480756c209434425788 Artur Gajowy <artur.gajowy@gmail.com> 1539262044 +0200	rebase -i (pick): Pretty: Improve instance for Coeval
+2618ad99235feecc41a75480756c209434425788 8aa4db11028cd5322cada04181b3bcc55956f959 Artur Gajowy <artur.gajowy@gmail.com> 1539262044 +0200	rebase -i (pick): Pretty: Improve instance for Coeval
+8aa4db11028cd5322cada04181b3bcc55956f959 d8a05545505edff094bbe438d43cffee5683a2ca Artur Gajowy <artur.gajowy@gmail.com> 1539262045 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+d8a05545505edff094bbe438d43cffee5683a2ca 388aae1a3b6fed770c62451fbfb5e567116115e8 Artur Gajowy <artur.gajowy@gmail.com> 1539262046 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+388aae1a3b6fed770c62451fbfb5e567116115e8 4f5e9e7200e06265ea42197ca2eca0f4ce80090a Artur Gajowy <artur.gajowy@gmail.com> 1539262047 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+4f5e9e7200e06265ea42197ca2eca0f4ce80090a 66c39f39d410e76626e1ed0cff4e5a2f2e8a646f Artur Gajowy <artur.gajowy@gmail.com> 1539262047 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+66c39f39d410e76626e1ed0cff4e5a2f2e8a646f c8f341eb09e685ee2979f415f2a3569842c924bb Artur Gajowy <artur.gajowy@gmail.com> 1539262048 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+c8f341eb09e685ee2979f415f2a3569842c924bb ed65b6dde97e0677d469306cf5be6e337b51df0e Artur Gajowy <artur.gajowy@gmail.com> 1539262049 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+ed65b6dde97e0677d469306cf5be6e337b51df0e ed65b6dde97e0677d469306cf5be6e337b51df0e Artur Gajowy <artur.gajowy@gmail.com> 1539262050 +0200	rebase -i (finish): returning to refs/heads/normalizer_connectives_discard_bug
+ed65b6dde97e0677d469306cf5be6e337b51df0e a2073b43c3e893b35347d66cf02631152da0a2e7 Artur Gajowy <artur.gajowy@gmail.com> 1539262227 +0200	rebase -i (start): checkout upstream/dev
+a2073b43c3e893b35347d66cf02631152da0a2e7 85617213252609ff8ac69f1d5b01ec0cfd4313f9 Artur Gajowy <artur.gajowy@gmail.com> 1539262227 +0200	cherry-pick: fast-forward
+85617213252609ff8ac69f1d5b01ec0cfd4313f9 5827b82abb4fd68d191c8919573ac6d7d4954e48 Artur Gajowy <artur.gajowy@gmail.com> 1539262238 +0200	rebase -i (continue): Make Env's constructor private
+5827b82abb4fd68d191c8919573ac6d7d4954e48 27fd32a1a891e268d1e91bbe5043f205b2772175 Artur Gajowy <artur.gajowy@gmail.com> 1539262239 +0200	rebase -i (pick): Add Shrink instances for rholang AST classes
+27fd32a1a891e268d1e91bbe5043f205b2772175 989e3187469dcc7060739474d6b1f19daeeab789 Artur Gajowy <artur.gajowy@gmail.com> 1539262240 +0200	rebase -i (pick): Enable counter-example shrinking for RhoTypesTest
+989e3187469dcc7060739474d6b1f19daeeab789 a03b0bec0b3928702eff6ce49dc265df7861ed3d Artur Gajowy <artur.gajowy@gmail.com> 1539262240 +0200	rebase -i (pick): Pretty: don't use named parameters when all parameters are passed
+a03b0bec0b3928702eff6ce49dc265df7861ed3d 99d4c5db2e528ce2aa201be149234104f7a21b40 Artur Gajowy <artur.gajowy@gmail.com> 1539262240 +0200	rebase -i (pick): Pretty: Improve instance for Coeval
+99d4c5db2e528ce2aa201be149234104f7a21b40 1b00d05caa273115dc27ca7b1d34ca4929f5c485 Artur Gajowy <artur.gajowy@gmail.com> 1539262240 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+1b00d05caa273115dc27ca7b1d34ca4929f5c485 7295d52d0e7bb3e01cf371ddfc5422102866c5d8 Artur Gajowy <artur.gajowy@gmail.com> 1539262241 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+7295d52d0e7bb3e01cf371ddfc5422102866c5d8 c349dfed66d0e86c40437a2dd1896ae1a3d35439 Artur Gajowy <artur.gajowy@gmail.com> 1539262241 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+c349dfed66d0e86c40437a2dd1896ae1a3d35439 c349dfed66d0e86c40437a2dd1896ae1a3d35439 Artur Gajowy <artur.gajowy@gmail.com> 1539262241 +0200	rebase -i (finish): returning to refs/heads/normalizer_connectives_discard_bug
+c349dfed66d0e86c40437a2dd1896ae1a3d35439 1cc1e398524bd66942e7e980b0270dfa16c19462 Artur Gajowy <artur.gajowy@gmail.com> 1539262347 +0200	commit: fixup! Don't use
+1cc1e398524bd66942e7e980b0270dfa16c19462 1cc1e398524bd66942e7e980b0270dfa16c19462 Artur Gajowy <artur.gajowy@gmail.com> 1539262369 +0200	rebase -i (start): checkout upstream/dev
+1cc1e398524bd66942e7e980b0270dfa16c19462 1cc1e398524bd66942e7e980b0270dfa16c19462 Artur Gajowy <artur.gajowy@gmail.com> 1539262369 +0200	rebase -i (finish): returning to refs/heads/normalizer_connectives_discard_bug
+1cc1e398524bd66942e7e980b0270dfa16c19462 a03b0bec0b3928702eff6ce49dc265df7861ed3d Artur Gajowy <artur.gajowy@gmail.com> 1539262386 +0200	rebase -i (start): checkout upstream/dev
+a03b0bec0b3928702eff6ce49dc265df7861ed3d 141aa14e4517f5bdec7f399fc1f1c391f8d93731 Artur Gajowy <artur.gajowy@gmail.com> 1539262386 +0200	rebase -i (fixup): Pretty: don't use named parameters when all parameters are passed
+141aa14e4517f5bdec7f399fc1f1c391f8d93731 1f1903bbdd4462fa8551b771878daf2d91d3e38e Artur Gajowy <artur.gajowy@gmail.com> 1539262386 +0200	rebase -i (pick): Pretty: Improve instance for Coeval
+1f1903bbdd4462fa8551b771878daf2d91d3e38e c7ca40ae88306f9eb0bb04e0f05bc11d13c6aac9 Artur Gajowy <artur.gajowy@gmail.com> 1539262386 +0200	rebase -i (pick): Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+c7ca40ae88306f9eb0bb04e0f05bc11d13c6aac9 85b512e30d737f895c131c2232d5bb6710562598 Artur Gajowy <artur.gajowy@gmail.com> 1539262386 +0200	rebase -i (pick): Fix a bug where connectives substitution discarded most of the Par
+85b512e30d737f895c131c2232d5bb6710562598 a17ec6266c6803d015dd7548c1c36a0f847be933 Artur Gajowy <artur.gajowy@gmail.com> 1539262387 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+a17ec6266c6803d015dd7548c1c36a0f847be933 a17ec6266c6803d015dd7548c1c36a0f847be933 Artur Gajowy <artur.gajowy@gmail.com> 1539262387 +0200	rebase -i (finish): returning to refs/heads/normalizer_connectives_discard_bug
+a17ec6266c6803d015dd7548c1c36a0f847be933 91b3a9d3cf99f4a10d7299480b331948eb6f4061 Artur Gajowy <artur.gajowy@gmail.com> 1539266183 +0200	commit: fixup! Fix a bug where connectives subs
+91b3a9d3cf99f4a10d7299480b331948eb6f4061 85b512e30d737f895c131c2232d5bb6710562598 Artur Gajowy <artur.gajowy@gmail.com> 1539266191 +0200	rebase -i (start): checkout upstream/dev
+85b512e30d737f895c131c2232d5bb6710562598 fb108ea73bd7bd5a65b91800e6ee5856a2a09896 Artur Gajowy <artur.gajowy@gmail.com> 1539266191 +0200	rebase -i (fixup): Fix a bug where connectives substitution discarded most of the Par
+fb108ea73bd7bd5a65b91800e6ee5856a2a09896 105d8ac4857b6183ffad68573125cd5365db084a Artur Gajowy <artur.gajowy@gmail.com> 1539266192 +0200	rebase -i (pick): Add test for the PrimeCheck contract
+105d8ac4857b6183ffad68573125cd5365db084a 105d8ac4857b6183ffad68573125cd5365db084a Artur Gajowy <artur.gajowy@gmail.com> 1539266192 +0200	rebase -i (finish): returning to refs/heads/normalizer_connectives_discard_bug
+105d8ac4857b6183ffad68573125cd5365db084a aabaf40b82b5246b9af512684af4e0e692326b76 Artur Gajowy <artur.gajowy@gmail.com> 1539267727 +0200	commit: Add `Interpreter.buildNormalizedTerm(String)` overload
+aabaf40b82b5246b9af512684af4e0e692326b76 756b50e4ff5b0a1b9592e4d373dadd0767d93c2a Artur Gajowy <artur.gajowy@gmail.com> 1539268243 +0200	commit: Use `Interpreter.buildNormalizedTerm(String)` where applicable
+756b50e4ff5b0a1b9592e4d373dadd0767d93c2a 7661f0509d67d158ba0344817f83bb74f724eebb Artur Gajowy <artur.gajowy@gmail.com> 1539268377 +0200	rebase -i (start): checkout upstream/dev
+7661f0509d67d158ba0344817f83bb74f724eebb 26be8886e49e561f936f017b617253a25fe5cc59 Artur Gajowy <artur.gajowy@gmail.com> 1539268377 +0200	rebase -i (pick): Add `Interpreter.buildNormalizedTerm(String)` overload
+26be8886e49e561f936f017b617253a25fe5cc59 8aa041be1c2137f36e19dba27c0eaeb905f70878 Artur Gajowy <artur.gajowy@gmail.com> 1539268377 +0200	rebase -i (pick): Use `Interpreter.buildNormalizedTerm(String)` where applicable
+8aa041be1c2137f36e19dba27c0eaeb905f70878 8aa041be1c2137f36e19dba27c0eaeb905f70878 Artur Gajowy <artur.gajowy@gmail.com> 1539268377 +0200	rebase -i (finish): returning to refs/heads/interpreter_build_from_string
+8aa041be1c2137f36e19dba27c0eaeb905f70878 16fa04556cab77266358bf085c2398203c715aca Artur Gajowy <artur.gajowy@gmail.com> 1539294476 +0200	commit: PrettyPritner: wrap match cases in `{}` to ensure parsable output
+16fa04556cab77266358bf085c2398203c715aca 72e0a1789a37e925a4ad0ec2d0896ad55c69a51e Artur Gajowy <artur.gajowy@gmail.com> 1539294661 +0200	commit (amend): PrettyPritner: wrap match cases in `{}` to ensure parsable output
+72e0a1789a37e925a4ad0ec2d0896ad55c69a51e 51eb501011eb0573dfefbda7ba72b9074bc8a32c Artur Gajowy <artur.gajowy@gmail.com> 1539294751 +0200	commit (amend): PrettyPritner: wrap match cases in `{}` to ensure parsable output
+51eb501011eb0573dfefbda7ba72b9074bc8a32c 218f1a87bd162a7f5ece5ff4b8a57a848979729f Artur Gajowy <artur.gajowy@gmail.com> 1539294809 +0200	commit (amend): PrettyPritner: wrap match cases in `{}` to ensure parsable output
+218f1a87bd162a7f5ece5ff4b8a57a848979729f 510a50f449ba057ead99c8b00bdd04884ebcbd24 Artur Gajowy <artur.gajowy@gmail.com> 1539295379 +0200	commit: PrettyPritner: wrap match case bodies in `{}` to ensure parsable output
+510a50f449ba057ead99c8b00bdd04884ebcbd24 a88e8714c1a57094b3acf1ad586338df57f77e58 Artur Gajowy <artur.gajowy@gmail.com> 1539295440 +0200	commit: WIP Make GPrivate / unforgable names output parsable (yet still safe)
+a88e8714c1a57094b3acf1ad586338df57f77e58 7d0d42759120c07d3b740a8ac73117dee22aec3b Artur Gajowy <artur.gajowy@gmail.com> 1539295483 +0200	commit: PrettyPritner: wrap match target in `{}` to ensure parsable output
+7d0d42759120c07d3b740a8ac73117dee22aec3b 8838cfc7548d23e94241707e407954b9b15bcb7c Artur Gajowy <artur.gajowy@gmail.com> 1539297131 +0200	commit: PrettyPrinter: Remove spurious whitespace from `bundle` printout
+8838cfc7548d23e94241707e407954b9b15bcb7c 8208647d00b376ca2a03bf5e8328fc3d2b3c4802 Artur Gajowy <artur.gajowy@gmail.com> 1539297887 +0200	commit: WIP PrettyPrinter: fix output of boolean operators for expressions
+8208647d00b376ca2a03bf5e8328fc3d2b3c4802 b673ce6424499921a39c0ec0cf6c3c0aff95e138 Artur Gajowy <artur.gajowy@gmail.com> 1539324673 +0200	commit: WIP Normalized AST generation
+b673ce6424499921a39c0ec0cf6c3c0aff95e138 b673ce6424499921a39c0ec0cf6c3c0aff95e138 Artur Gajowy <artur.gajowy@gmail.com> 1539325467 +0200	checkout: moving from interpreter_build_from_string to hold_my_beer
+b673ce6424499921a39c0ec0cf6c3c0aff95e138 d3fd1b90bc95735704a07d183a3bd14130766722 Artur Gajowy <artur.gajowy@gmail.com> 1539325494 +0200	rebase -i (start): checkout upstream/dev
+d3fd1b90bc95735704a07d183a3bd14130766722 230043011cf61e71916409d60d32d510a68462a5 Artur Gajowy <artur.gajowy@gmail.com> 1539325494 +0200	rebase -i (pick): PrettyPritner: wrap match cases in `{}` to ensure parsable output
+230043011cf61e71916409d60d32d510a68462a5 a9120c39ac5488e954ab4e6cdd5345f9f9bdd8a7 Artur Gajowy <artur.gajowy@gmail.com> 1539325495 +0200	rebase -i (pick): PrettyPritner: wrap match case bodies in `{}` to ensure parsable output
+a9120c39ac5488e954ab4e6cdd5345f9f9bdd8a7 be070b6171dfdb42f67dfe92b0b07b48efdd041b Artur Gajowy <artur.gajowy@gmail.com> 1539325495 +0200	rebase -i (pick): WIP Make GPrivate / unforgable names output parsable (yet still safe)
+be070b6171dfdb42f67dfe92b0b07b48efdd041b 27e3bd612dcce9933ec913e356a989aae842b0bc Artur Gajowy <artur.gajowy@gmail.com> 1539325495 +0200	rebase -i (pick): PrettyPritner: wrap match target in `{}` to ensure parsable output
+27e3bd612dcce9933ec913e356a989aae842b0bc f0b7c26c2899e1eacc3ac709c4961dd9cb8834ab Artur Gajowy <artur.gajowy@gmail.com> 1539325495 +0200	rebase -i (pick): PrettyPrinter: Remove spurious whitespace from `bundle` printout
+f0b7c26c2899e1eacc3ac709c4961dd9cb8834ab eb5961c7cd3a0f12085a4b6675be98668fdea7aa Artur Gajowy <artur.gajowy@gmail.com> 1539325495 +0200	rebase -i (pick): WIP PrettyPrinter: fix output of boolean operators for expressions
+eb5961c7cd3a0f12085a4b6675be98668fdea7aa 7330814423f3e0fddcd268e50f47645b67fbf08b Artur Gajowy <artur.gajowy@gmail.com> 1539325496 +0200	rebase -i (pick): WIP Normalized AST generation
+7330814423f3e0fddcd268e50f47645b67fbf08b 7330814423f3e0fddcd268e50f47645b67fbf08b Artur Gajowy <artur.gajowy@gmail.com> 1539325496 +0200	rebase -i (finish): returning to refs/heads/hold_my_beer
+7330814423f3e0fddcd268e50f47645b67fbf08b 1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 Artur Gajowy <artur.gajowy@gmail.com> 1539325558 +0200	checkout: moving from hold_my_beer to staksafe_hashcode
+1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 d4af4a9a8ef28cafe5394f756395097c03a45120 Artur Gajowy <artur.gajowy@gmail.com> 1539325667 +0200	checkout: moving from staksafe_hashcode to dev
+d4af4a9a8ef28cafe5394f756395097c03a45120 d3fd1b90bc95735704a07d183a3bd14130766722 Artur Gajowy <artur.gajowy@gmail.com> 1539325706 +0200	reset: moving to upstream/dev

@@ -15,9 +15,6 @@
 [remote "kyle"]
 	url = https://github.com/guardbotmk3/rchain.git
 	fetch = +refs/heads/*:refs/remotes/kyle/*
-[remote "abner"]
-	url = https://github.com/AbnerZheng/rchain
-	fetch = +refs/heads/*:refs/remotes/abner/*
 [branch "dev"]
 	remote = upstream
 	merge = refs/heads/dev
@@ -33,12 +30,6 @@
 [branch "recursion_schemes"]
 	remote = origin
 	merge = refs/heads/recursion_schemes
-[branch "gen_test_expr_disable"]
-	remote = origin
-	merge = refs/heads/gen_test_expr_disable
 [remote "kent"]
 	url = git@github.com:KentShikama/rchain.git
 	fetch = +refs/heads/*:refs/remotes/kent/*
-[branch "dev-kent-runtime-compile-rholang"]
-	remote = kent
-	merge = refs/heads/dev-kent-runtime-compile-rholang

@@ -5,3 +5,25 @@ f905d77d99706e104c647a69bf2828fd9deec297 24e1a277de0e30e499fa22e1e0e67698cbeda26
 285a74d815fbc7199f4c24c422ed5fbf05fdd29f 4ae7116ddf39e2c6ad4b89741775d0d6cecf9887 Artur Gajowy <artur.gajowy@gmail.com> 1538579893 +0200	merge upstream/dev: Fast-forward
 4ae7116ddf39e2c6ad4b89741775d0d6cecf9887 d9d4cf00c1e57acd9278966160cfbe28a58efca1 Artur Gajowy <artur.gajowy@gmail.com> 1538579980 +0200	commit: Disable generative serialization tests for Expr till the bug's fixed
 d9d4cf00c1e57acd9278966160cfbe28a58efca1 ae3813456e0b2e065919e2be45d4843e9dc1c8a6 Artur Gajowy <artur.gajowy@gmail.com> 1538637343 +0200	merge upstream/dev: Fast-forward
+ae3813456e0b2e065919e2be45d4843e9dc1c8a6 de568dff6ead2e8ac5564b7a991e3bd6b72e6746 Artur Gajowy <artur.gajowy@gmail.com> 1538997808 +0200	pull upstream dev: Fast-forward
+de568dff6ead2e8ac5564b7a991e3bd6b72e6746 c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 Artur Gajowy <artur.gajowy@gmail.com> 1539066786 +0200	pull: Fast-forward
+c3577756ef02e4b97fedfdb35c1bbfb60fe8f243 66f9c096445d2ffa21e036e59284b652138c8b97 Artur Gajowy <artur.gajowy@gmail.com> 1539066829 +0200	rebase finished: refs/heads/dev onto 6d626ea3a1f49b1c8629f7ffbba3a3e4c1e24181
+66f9c096445d2ffa21e036e59284b652138c8b97 da1d7d667b68543d25a989f1108d4feae056ae37 Artur Gajowy <artur.gajowy@gmail.com> 1539093690 +0200	merge upstream/dev: Merge made by the 'recursive' strategy.
+da1d7d667b68543d25a989f1108d4feae056ae37 42ed384c129217ba2b8b28e9d424dff11bd46ea0 Artur Gajowy <artur.gajowy@gmail.com> 1539093709 +0200	reset: moving to upstream/dev
+42ed384c129217ba2b8b28e9d424dff11bd46ea0 29f6af7decaeb2635ec09675bde272bab90fddbc Artur Gajowy <artur.gajowy@gmail.com> 1539102057 +0200	commit: WIP Pretty: don't use named parameters when all parameters are passed
+29f6af7decaeb2635ec09675bde272bab90fddbc e963a25742769cf92709e30b79a1c43b22e313e2 Artur Gajowy <artur.gajowy@gmail.com> 1539117332 +0200	commit: Remove Env.{merge, rename} that were only used in tests
+e963a25742769cf92709e30b79a1c43b22e313e2 c53a4c17a147203d933e2b5fde03749a4b69857e Artur Gajowy <artur.gajowy@gmail.com> 1539117637 +0200	commit: Remove unused overloads of Env#put
+c53a4c17a147203d933e2b5fde03749a4b69857e 83135eeaecb6fe459b4dd1174ac40bb04d00be3b Artur Gajowy <artur.gajowy@gmail.com> 1539117647 +0200	rebase -i (finish): refs/heads/dev onto 29f6af7decaeb2635ec09675bde272bab90fddbc
+83135eeaecb6fe459b4dd1174ac40bb04d00be3b d85c9b21e3e3c29f59c892e89e7d7ad50f39941c Artur Gajowy <artur.gajowy@gmail.com> 1539117788 +0200	commit: Make Env's constructor private
+d85c9b21e3e3c29f59c892e89e7d7ad50f39941c 79221b06d93464d4e0063c9fed27824b82a961b7 Artur Gajowy <artur.gajowy@gmail.com> 1539206357 +0200	commit: WIP PrettySpec!?
+79221b06d93464d4e0063c9fed27824b82a961b7 208cfe92e191ccff7a803882d22bc81e6992c738 Artur Gajowy <artur.gajowy@gmail.com> 1539207470 +0200	commit: Add Shrink instances for rholang AST classes
+208cfe92e191ccff7a803882d22bc81e6992c738 060de14ed18c79ba6146e235ab7c9e0aaa503999 Artur Gajowy <artur.gajowy@gmail.com> 1539207503 +0200	commit: Enable counter-example shrinking for RhoTypesTest
+060de14ed18c79ba6146e235ab7c9e0aaa503999 1e693dd90229c5a005cc767d37cc4061c308cb51 Artur Gajowy <artur.gajowy@gmail.com> 1539207641 +0200	commit: Improve Pretty instance for Coeval
+1e693dd90229c5a005cc767d37cc4061c308cb51 6c07fc3f4cf287357827c347061446231b7a3f63 Artur Gajowy <artur.gajowy@gmail.com> 1539256438 +0200	commit: Extract Assertions.assertEqual for Pretty-printed, type-safe equality
+6c07fc3f4cf287357827c347061446231b7a3f63 56cae4acb94d483dc5c3d161f16c02eb35c76084 Artur Gajowy <artur.gajowy@gmail.com> 1539257126 +0200	commit: Fix a bug where connectives substitution discarded most of the Par
+56cae4acb94d483dc5c3d161f16c02eb35c76084 93b7062177bff3bad1dd5ae47a2736e5aff7abb9 Artur Gajowy <artur.gajowy@gmail.com> 1539261056 +0200	commit: Add test for the PrimeCheck contract
+93b7062177bff3bad1dd5ae47a2736e5aff7abb9 8f9542cddcd6a6d859148ec72b4334fb862caf8f Artur Gajowy <artur.gajowy@gmail.com> 1539261297 +0200	commit: fixup! Pretty: don't use named parameters when all parameters are passed
+8f9542cddcd6a6d859148ec72b4334fb862caf8f 1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd Artur Gajowy <artur.gajowy@gmail.com> 1539261501 +0200	rebase -i (finish): refs/heads/dev onto 754703aee0fb8375dc981147b03566caf4a1ab24
+1c29feb72d6d5de78ca788b4eb1d78d0d39aa9dd 80cbbd0acea7ec9b0ce7c31328ebc690976db0fb Artur Gajowy <artur.gajowy@gmail.com> 1539261838 +0200	rebase -i (finish): refs/heads/dev onto 754703aee0fb8375dc981147b03566caf4a1ab24
+80cbbd0acea7ec9b0ce7c31328ebc690976db0fb d4af4a9a8ef28cafe5394f756395097c03a45120 Artur Gajowy <artur.gajowy@gmail.com> 1539261877 +0200	rebase -i (finish): refs/heads/dev onto 0051b5c9c1230bed1fc0319bf744ca086abe376d
+d4af4a9a8ef28cafe5394f756395097c03a45120 d3fd1b90bc95735704a07d183a3bd14130766722 Artur Gajowy <artur.gajowy@gmail.com> 1539325706 +0200	reset: moving to upstream/dev

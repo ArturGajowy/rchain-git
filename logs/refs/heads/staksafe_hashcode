@@ -103,3 +103,10 @@ e66e9e140a25552d29675fe42405bbad3331a340 e59f61c1c46eab9278b98a5f11850cd063d93e6
 e59f61c1c46eab9278b98a5f11850cd063d93e69 ece865cd0aa993b0433254a4e05d350f80f4e3ee Artur Gajowy <artur.gajowy@gmail.com> 1538738696 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 122910e1c8ed3f5533fee99c74f32b632236f6c7
 ece865cd0aa993b0433254a4e05d350f80f4e3ee e5187d9052a20c7b260edb24795909928e335421 Artur Gajowy <artur.gajowy@gmail.com> 1538780751 +0200	reset: moving to fofo
 e5187d9052a20c7b260edb24795909928e335421 1e8d83035b575a719ac527edcaf59f8b20021b19 Artur Gajowy <artur.gajowy@gmail.com> 1538780885 +0200	commit: Diff
+1e8d83035b575a719ac527edcaf59f8b20021b19 4158a1b7242d34d48da270700b587611e2fe5e57 Artur Gajowy <artur.gajowy@gmail.com> 1538997616 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 0f7dd9f03c4ce1f0aec73109f217d9dc26803e46
+4158a1b7242d34d48da270700b587611e2fe5e57 ae83f249360e4bc5938e44579444989744e1e628 Artur Gajowy <artur.gajowy@gmail.com> 1538997694 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto bf31535b457302a1de25ad7db66c5ad3b7156120
+ae83f249360e4bc5938e44579444989744e1e628 2a0762b0b933af24b82f0de1e5c12b16b21822a4 Artur Gajowy <artur.gajowy@gmail.com> 1538997911 +0200	rebase -i (finish): refs/heads/staksafe_hashcode onto 79ba178086cbb16ba9cc5c280fd46bd5c3cc5490
+2a0762b0b933af24b82f0de1e5c12b16b21822a4 90f794a80fe1c6a3086284b623dc071a29b23411 Artur Gajowy <artur.gajowy@gmail.com> 1538999682 +0200	commit: fixup! Diff
+90f794a80fe1c6a3086284b623dc071a29b23411 d2600e42412f4f4625bd415c80d3639e0582b09a Artur Gajowy <artur.gajowy@gmail.com> 1539001380 +0200	commit: WIP Serialization seems to work 1-1
+d2600e42412f4f4625bd415c80d3639e0582b09a 6772894bd6627fd2e999117320ad301ba5dfd0f3 Artur Gajowy <artur.gajowy@gmail.com> 1539003783 +0200	commit: Extract StackSafetySpec companion for reuse across tests
+6772894bd6627fd2e999117320ad301ba5dfd0f3 1c397a40a66ca98ddf8c2ffa2fa3352143a04f12 Artur Gajowy <artur.gajowy@gmail.com> 1539066130 +0200	commit: WIP
